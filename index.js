@@ -584,7 +584,9 @@ export default function startServer() {
   });
 
   // USE EXPort app listen
-
+  app.use((req, res) => {
+    res.status(404).json({ message: "I am in USE." });
+  });
   app.listen(PORT, "0.0.0.0", () => {
     console.log(`Server is running on port ${PORT}`);
   });
