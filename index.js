@@ -4,7 +4,7 @@ const path = require("path");
 const english = require('english');
 
 const app = express();
-const PORT = 83;
+const PORT = 2580;
 
 // Path to the folder containing Quran JSON files
 const quranFolder = path.join(__dirname, "/Quran");
