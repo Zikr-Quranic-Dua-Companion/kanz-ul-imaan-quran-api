@@ -7,7 +7,7 @@ const app = express();
 const PORT = 3000;
 
 // Path to the folder containing Quran JSON files
-const quranFolder = path.join(__dirname, "quran");
+const quranFolder = path.join(__dirname, "/Quran");
 
 // In-memory storage for all Quran data
 let quranData = [];
