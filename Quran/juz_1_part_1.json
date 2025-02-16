@@ -1,0 +1,80 @@
+[
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "1"
+    },
+    "ayatNumber": "1",
+    "arabicText": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَـٰلَمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "All praise is to Allah, the Lord\tOf The\t\nCreation.",
+    "romanUrduTranslationText": "Sab\tkhoobiyāñ Allah ko, jo Malik sāre jahañ\t\nwāloñ ka.\t"
+  },
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "1"
+    },
+    "ayatNumber": "2",
+    "arabicText": "ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "The Most\tGracious,\tthe Most Merciful\t",
+    "romanUrduTranslationText": "Bahut Maherbān, Rahmat Wālā"
+  },
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "1"
+    },
+    "ayatNumber": "3",
+    "arabicText": "مَـٰلِكِ يَوْمِ ٱلدِّينِ",
+    "urduTranslationText": "",
+    "englishTranslationText": " Owner of the\tDay\tof Recompense\t",
+    "romanUrduTranslationText": "Roz-e-Jaza ka Mālik"
+  },
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "1"
+    },
+    "ayatNumber": "4",
+    "arabicText": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "urduTranslationText": "",
+    "englishTranslationText": "You alone we worship and from You\t\nalone we\tseek help\t (and may we\t\nalways).",
+    "romanUrduTranslationText": "Hum Tujhi ko poojeiñ aur Tujhi se madad\t\nchāheiñ"
+  },
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "1"
+    },
+    "ayatNumber": "5",
+    "arabicText": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Guide us on the Straight\tPath.\t",
+    "romanUrduTranslationText": "Hum ko Seedhā Rāstā chalā"
+  },
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "1"
+    },
+    "ayatNumber": "6",
+    "arabicText": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "The\t path\t of\t those\t whom\t You\t have\t\nfavoured\t-\t\tNot\t the\tpath\tof\t those\twho\t\nearned\tYour\tanger - nor\tof\t those\twho\t\nare\tastray.\n%#$ \"",
+    "romanUrduTranslationText": "Rāstā unka jin per Toone\t ehsān kiya.\nNa unka jin per ghazab huwa aur na bahke\t\nhuoñ ka"
+  }
+]

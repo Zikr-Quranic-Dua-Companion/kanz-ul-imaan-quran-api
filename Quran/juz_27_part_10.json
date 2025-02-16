@@ -1,0 +1,964 @@
+[
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "23",
+    "arabicText": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Like\tpearls\tsafely\thidden.\t\t",
+    "romanUrduTranslationText": "Jaise\tchupe\trakhe\thuwe\tmoti\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "24",
+    "arabicText": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "The\treward\tfor\twhat\tthey\tdid.\t\t",
+    "romanUrduTranslationText": "Sila\tunke\ta’amāl\tka"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "25",
+    "arabicText": "لَا يَسْمَعُونَ فِيهَا لَغْوًۭا وَلَا تَأْثِيمًا",
+    "urduTranslationText": "",
+    "englishTranslationText": "They\twill\tnot\thear\tany\tuseless\tspeech\tin\t\nit,\tor\tany\tsin.\t\t",
+    "romanUrduTranslationText": "Us\tmeiñ\tna\tsuneñge\tkoi\tbekār\tbāt\tna\t\nguneh-gāri\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "26",
+    "arabicText": "إِلَّا قِيلًۭا سَلَـٰمًۭا سَلَـٰمًۭا",
+    "urduTranslationText": "",
+    "englishTranslationText": "Except\tthe\tsaying,\t“Peace,\tpeace.”\t",
+    "romanUrduTranslationText": " Hāñ\tyeh\tkehna\thoga\tsalām\tsalām"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "27",
+    "arabicText": "وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tthose\ton\tthe\tright\t-\thow\t(fortunate)\t\nare\tthose\ton\tthe\tright!\t\t\t",
+    "romanUrduTranslationText": "Aur\tdehni\ttaraf\twāle\tkaise\tdehni\ttaraf\t\nwāle\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "28",
+    "arabicText": "فِى سِدْرٍۢ مَّخْضُودٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Among\tthorn-less\tlote-trees.\t\t\t\t",
+    "romanUrduTranslationText": "Be\tkāñte\tki\tberiyoñ\tmeiñ\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "29",
+    "arabicText": "وَطَلْحٍۢ مَّنضُودٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tclusters\tof\tbanana\tplants.\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\tkele\tke\tguch-chhoñ\tmeiñ"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "30",
+    "arabicText": "وَظِلٍّۢ مَّمْدُودٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tin\teverlasting\tshade.\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\thamesha\tke\tsāaye\tmeiñ"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "31",
+    "arabicText": "وَمَآءٍۢ مَّسْكُوبٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tin\tperpetually\tflowing\twater.\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\thamesha\tjāri\tpāni\tmeiñ\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "32",
+    "arabicText": "وَفَـٰكِهَةٍۢ كَثِيرَةٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tplenty\tof\tfruits.\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\tbahut\tse\tmewoñ\tmeiñ.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "33",
+    "arabicText": "لَّا مَقْطُوعَةٍۢ وَلَا مَمْنُوعَةٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "That\twill\tneither\tfinish,\tnor\tever\tbe\t\nstopped.\t\t\t\t\t",
+    "romanUrduTranslationText": "Jo\tna\tkhatm\thoñ\taur\tna\troke\tjāyeñ\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "34",
+    "arabicText": "وَفُرُشٍۢ مَّرْفُوعَةٍ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\traised\tcouches.\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\tbuland\tbichaunoñ\tmeiñ\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "35",
+    "arabicText": "إِنَّآ أَنشَأْنَـٰهُنَّ إِنشَآءًۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "We\thave\tindeed\tdeveloped\tthese\twomen\twith\tan\texcellent\tdevelopment.\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Be-shak\thum\tne\tun\taurtoñ\tko\tachchhi\tuthān\tuthaya\t\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "36",
+    "arabicText": "فَجَعَلْنَـٰهُنَّ أَبْكَارًا",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\tmade\tthem\tas\tmaidens.\t\t\t",
+    "romanUrduTranslationText": "To\tunheiñ\tbanāya\tkawāriyañ\tapne\tshauharoñ\tpar\t\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "37",
+    "arabicText": "عُرُبًا أَتْرَابًۭا",
+    "urduTranslationText": "",
+    "englishTranslationText": "The\tbeloved\tof\ttheir\thusbands,\tattractive,\tof\tsingle\tage\t",
+    "romanUrduTranslationText": "Piyāriyañ\tunheiñ\tpiyār\tdilātiyan\tek\tumr\twāliyañ\t\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "38",
+    "arabicText": "لِّأَصْحَـٰبِ ٱلْيَمِينِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "For\tthose\ton\tthe\tright.\t\t",
+    "romanUrduTranslationText": "Dehni\ttaraf\twaloñ\tke\tliye\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "39",
+    "arabicText": "ثُلَّةٌۭ مِّنَ ٱلْأَوَّلِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": " A\tlarge\tgroup\tfrom\tthe\tearlier\tgenerations.",
+    "romanUrduTranslationText": "Agloñ\tmeiñ\tse\tek\tgiroh.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "40",
+    "arabicText": "وَثُلَّةٌۭ مِّنَ ٱلْـَٔاخِرِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\ta\tlarge\tgroup\tfrom\tthe\tlatter.\t\t",
+    "romanUrduTranslationText": "Aur\tpichhloñ\tmeiñ\tse\tek\tgiroh\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "41",
+    "arabicText": "وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tthose\ton\tthe\tleft\t–\thow\t(wretched)\tare\tthose\ton\tthe\tleft!\t\t",
+    "romanUrduTranslationText": "Aur\tbāyiñ\ttaraf\twāle\tkaise\tbāyiñ\ttaraf\twāle\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "42",
+    "arabicText": "فِى سَمُومٍۢ وَحَمِيمٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "In\tscorching\twind\tand\tboiling\thot\twater.",
+    "romanUrduTranslationText": "Jalti\thawa\taur\tkhaulte\tpāni\tmeiñ.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "43",
+    "arabicText": "وَظِلٍّۢ مِّن يَحْمُومٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tin\tthe\tshadow\tof\ta\tburning\tsmoke.\t",
+    "romanUrduTranslationText": " Aur\tjalte\tdhuwen\tki\tchhaoñ\tmeiñ\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "44",
+    "arabicText": "لَّا بَارِدٍۢ وَلَا كَرِيمٍ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Which\tis\tneither\tcool\tnor\tis\tfor\trespect.\t",
+    "romanUrduTranslationText": " Jo\tna\tthandi\tna\t‘izzat\tki.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "45",
+    "arabicText": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Indeed\tthey\twere\tamong\tfavours\tbefore\tthis.\t\t",
+    "romanUrduTranslationText": "Be-shak\t\twoh\tis\tse\tpehle\tne'matoñ\tmeiñ\tthey\t.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "46",
+    "arabicText": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+    "urduTranslationText": "",
+    "englishTranslationText": " And\twere\tstubborn\tupon\tthe\tgreat\tsin\t(of\tdisbelief).",
+    "romanUrduTranslationText": "Aur\tus\tbade\tgunah\tki\that\t(Zid)\trakhte\tthey.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "47",
+    "arabicText": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًۭا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tthey\tused\tto\tsay,\t“When\twe\tare\tdead\tand\thave\tturned\tinto\tdust\tand\tbones,\twill\twe\tsurely\t\nbe\traised\tagain?”\t\t",
+    "romanUrduTranslationText": " Aur\tkehte\tthey\tkya\tjab\thum\tmar\tjāyeñ\taur\thaddiyañ\taur\tmitti\tho\tjāyeñ\tto\tkya\tzaroor\thum\t\nuthāaye\tjāyeñ\tge\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "48",
+    "arabicText": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "“And\talso\tour\tforefathers?”\t\t\t",
+    "romanUrduTranslationText": "Aur\tkya\thamāre\tagle\tbāp\tdāda\tbhi\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "49",
+    "arabicText": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْـَٔاخِرِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": " Proclaim,\t“Without\tdoubt\tall\t–\tthe\tformer\tand\tthe\tlatter.”\t",
+    "romanUrduTranslationText": " Tum\tfarmāo\t\tke\tbe-shak\t\tsab\tagle\taur\tpichhle\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "50",
+    "arabicText": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍۢ مَّعْلُومٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "“They\twill\tall\tbe\tgathered\ttogether\t–\ton\tthe\tappointed\ttime\tof\tthe\tknown\tday.”\t",
+    "romanUrduTranslationText": "Zaroor\tikatthe\tkiye\tjāyeñ\tge\tek\tjāne\thuwe\tdin\tki\tmee'ād\tpar\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "51",
+    "arabicText": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Then\tindeed\tyou,\tthe\tastray,\tthe\tdeniers\t-",
+    "romanUrduTranslationText": "Phir\tbe-shak\ttum\taey\tgumraho\tjhutlāne\t\nwālo\t\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "52",
+    "arabicText": "لَـَٔاكِلُونَ مِن شَجَرٍۢ مِّن زَقُّومٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "You\twill\tindeed\teat\tfrom\tthe\tZaqqum\ttree.\t\t",
+    "romanUrduTranslationText": " Zaroor\tthoohad\tke\tped\tmeiñ\tse\tkhāoge.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "53",
+    "arabicText": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Then\twill\tfill\tyour\tbellies\twith\tit.\t\t",
+    "romanUrduTranslationText": "Phir\tus\tse\tpet\tbharoge"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "54",
+    "arabicText": "فَشَـٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tupon\tit,\tyou\twill\tdrink\tthe\thot\tboiling\t\nwater.\t\t",
+    "romanUrduTranslationText": "Phir\tis\tpar\tkhaulta\tpāni\tpiyoge"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "55",
+    "arabicText": "فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Drinking\tthe\tway\tthirsty\tcamels\tdrink.\t",
+    "romanUrduTranslationText": "Phir\taisa\tpiyoge\tjaise\tsakht\tpiyāse\tooñt\t\npiyeñ\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "56",
+    "arabicText": "هَـٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "This\tis\ttheir\treception\ton\tthe\tDay\tof\t\nJustice.\t.\t",
+    "romanUrduTranslationText": "Yeh\tunki\tmehmāni\thai\tinsāf\tke\tdin."
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "57",
+    "arabicText": "نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "It\tis\tWe\tWho\tcreated\tyou,\tso\twhy\tdo\tyou\t\nnot\taccept\tthe\ttruth?\t\t",
+    "romanUrduTranslationText": "Hum\tne\ttumheiñ\tpaida\tkiya\tto\ttum\tkyuñ\t\nnahi\tsach\tmānte\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "58",
+    "arabicText": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\twhat\tis\tyour\topinion\tregarding\tthe\t\nsemen\tyou\tdischarge?\t\t",
+    "romanUrduTranslationText": "To\tbhala\tdekho\tto\twoh\tmani\tjo\tgirāte\tho\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "59",
+    "arabicText": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Do\tyou\tmake\ta\thuman\tout\tof\tit,\tor\tis\tit\tWe\t\nWho\tcreate?\t\t",
+    "romanUrduTranslationText": "Kya\ttum\tuska\tāadmi\tbanāte\tho\tya\thum\t\nbanāne\twāle\thaiñ\t\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "60",
+    "arabicText": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "It\tis\tWe\tWho\thave\tordained\tdeath\tamong\t\nyou,\tand\tWe\thave\tnot\tbeen\tbeaten\t-\t\t\t",
+    "romanUrduTranslationText": " Hum\tne\ttum\tmeiñ\tmarna\tthehrāya\taur\t\nhum\tis\tse\thāre\tnahi.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "61",
+    "arabicText": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": " In\tthe\tmatter\tof\texchanging\tyou\tfor\t\nothers,\tand\tto\ttransform\tyou\tinto\twhat\t\nyou\tdo\tnot\tknow.\t\t",
+    "romanUrduTranslationText": "Ke\ttum\tjaise\taur\tbadal\tdeiñ\taur\ttumhāri\t\nsoorateiñ\twoh\tkar\tdeiñ\tjiski\ttumheiñ\t\t\nkhabar\tnahi\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "62",
+    "arabicText": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tyou\thave\tindeed\tlearnt\tabout\tthe\tfirst\t\ncreation,\tso\twhy\tdo\tyou\tnot\tponder?\t",
+    "romanUrduTranslationText": "Aur\tbe-shak\t\ttum\tjān\tchuke\tho\tpehli\tuthān\t\nphir\tkyuñ\tnahi\tsochte\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "63",
+    "arabicText": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\twhat\tis\tyour\topinion\tregarding\twhat\t\nyou\tsow?\t\t",
+    "romanUrduTranslationText": "To\tbhala\tbatāo\t\tto\tjo\tbote\tho\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "64",
+    "arabicText": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Is\tit\tyou\twho\tcultivate\tit,\tor\tis\tit\tWe\tWho\t\ndevelop\tit?\t\t",
+    "romanUrduTranslationText": "Kya\ttum\tuski\tkheti\tbanāte\tho\tya\thum\t\nbanāne\twāle\thaiñ\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "65",
+    "arabicText": "لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًۭا فَظَلْتُمْ تَفَكَّهُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "If\tWe\twill\tWe\tcan\tmake\tit\tlike\tdry\t\ntrampled\thay,\tso\tyou\twould\tkeep\tcrying\t\nout.\t\t",
+    "romanUrduTranslationText": "Hum\tchāheñ\tto\tusey\trauñdan\t(Pa-māl)\tkar\tdeiñ\tphir\ttum\tbāteiñ\tbanāte\treh\tjāo\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "66",
+    "arabicText": "إِنَّا لَمُغْرَمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "That,\t“We\thave\tindeed\tbeen\tpenalised!”\t\t",
+    "romanUrduTranslationText": "Ke\thum\tpar\tchatti\tpadi\t(Tāwān)\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "67",
+    "arabicText": "بَلْ نَحْنُ مَحْرُومُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "“In\tfact,\twe\twere\tunfortunate!”\t\t",
+    "romanUrduTranslationText": "Balke\thum\tbe-naseeb\trahe.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "68",
+    "arabicText": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "\tSo\twhat\tis\tyour\topinion\tregarding\tthe\twater\tthat\tyou\tdrink?\t\t\t",
+    "romanUrduTranslationText": " To\tbhala\tbatāo\tto\twoh\tpāni\tjo\tpeete\tho.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "69",
+    "arabicText": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": " Is\tit\tyou\twho\tcaused\tit\tto\tdescend\tfrom\tthe\tcloud,\tor\tis\tit\tWe\tWho\tcause\tit\tto\tdescend?\t",
+    "romanUrduTranslationText": "Kya\ttum\tne\tisey\tbādal\tse\tutāra\tya\thum\thaiñ\tutārne\twāle"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "70",
+    "arabicText": "لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًۭا فَلَوْلَا تَشْكُرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "If\tWe\twill\tWe\tcan\tmake\tit\tbitter,\tso\twhy\tdo\tyou\tnot\tgive\tthanks?\t",
+    "romanUrduTranslationText": "Hum\tchāheñ\tto\tisey\tkhāri\tkar\tdeiñ\tphir\tkyuñ\tnahi\tshukr\tkarte\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "71",
+    "arabicText": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\twhat\tis\tyour\topinion\tregarding\tthe\tfire\twhich\tyou\tkindle?\t\t",
+    "romanUrduTranslationText": "To\tbhala\tbatāo\tto\twoh\tāag\t\tjo\ttum\traushan\tkarte\tho\t\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "72",
+    "arabicText": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Is\tit\tyou\twho\tgrew\tits\ttree,\tor\tis\tit\tWe\tWho\tcreate?\t",
+    "romanUrduTranslationText": "Kya\ttum\tne\tuska\tped\tpaida\tkiya\tya\thum\thaiñ\tpaida\tkarne\twāle"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "73",
+    "arabicText": "نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةًۭ وَمَتَـٰعًۭا لِّلْمُقْوِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "We\thave\tmade\tit\tas\ta\treminder\tof\thell\tand\tas\ta\tutility\tfor\ttravellers\tin\tthe\tjungle",
+    "romanUrduTranslationText": "Hum\tne\tusey\tJahannam\tka\tyād\tgār\tbanaya\taur\tjungal\tmeiñ\tmusafiroñ\tka\tfāida"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "74",
+    "arabicText": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Therefore\t(O\tdear\tProphet\tMuhammad\t-\tpeace\tand\tblessings\tbe\tupon\thim)\tproclaim\tthe\tPurity\tof\t\nthe\tname\tof\tyour\tLord,\tthe\tGreatest.\t\t",
+    "romanUrduTranslationText": "To\taey\tMehboob!\tTum\tpāki\tbolo\tapne\t‘azmat\twāle\tRab\tke\tnām\tki."
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "75",
+    "arabicText": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\tI\tswear\tby\tthe\tsetting\tplaces\tof\tthe\tstars.\t\t",
+    "romanUrduTranslationText": "To\tmujhe\tqasam\thai\tun\tjaghoñ\tki\tjahāñ\ttāre\tdoobte\thaiñ"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "76",
+    "arabicText": "وَإِنَّهُۥ لَقَسَمٌۭ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tthat\tis\tindeed\ta\ttremendous\toath,\tif\tyou\tunderstand.\t\t",
+    "romanUrduTranslationText": "Aur\ttum\tsamjho\tto\tyeh\tbadi\tqasam\thai."
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "77",
+    "arabicText": "إِنَّهُۥ لَقُرْءَانٌۭ كَرِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "This\tis\tindeed\tthe\tnoble\tQur’an.\t\t",
+    "romanUrduTranslationText": "Be-shak\t\tyeh\t‘izzat\twāla\tQur’ān\thai\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "78",
+    "arabicText": "فِى كِتَـٰبٍۢ مَّكْنُونٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Kept\tin\ta\tsecure\tBook.\t\t",
+    "romanUrduTranslationText": "Mehfooz\tnawishte\tmeiñ\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "79",
+    "arabicText": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": " None\tmay\ttouch\tit,\texcept\twith\tablution.",
+    "romanUrduTranslationText": "Isey\tna\tchhuweñ\tmagar\tba-\twazu\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "80",
+    "arabicText": "تَنزِيلٌۭ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Sent\tdown\tby\tthe\tLord\tOf\tThe\tCreation.\t",
+    "romanUrduTranslationText": " Utāra\thuwa\thai\tsāre\tjahān\tke\tRab\tka"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "81",
+    "arabicText": "أَفَبِهَـٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\tis\tthis\tthe\tmatter\tregarding\twhich\tyou\t\nlaze?\t\t",
+    "romanUrduTranslationText": "To\tkya\tis\tbāt\tmeiñ\ttum\tsusti\tkarte\tho\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "82",
+    "arabicText": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tyou\tmake\tits\tdenial\tyour\tshare?\t\t",
+    "romanUrduTranslationText": "Aur\tapna\thissa\tyeh\trakhte\tho\tke\tjhutlāte\t\nho\t\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "83",
+    "arabicText": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\twhy\twas\tit\tnot,\twhen\tthe\tsoul\treaches\t\nup\tto\tthe\tthroat,\t-\t\t\t\t",
+    "romanUrduTranslationText": "Phir\tkyuñ\tna\tho\tke\tjab\tjān\tgale\ttak\t\npahuñche."
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "84",
+    "arabicText": "وَأَنتُمْ حِينَئِذٍۢ تَنظُرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Whereas\tyou\twatch\tat\tthat\tmoment!\t\t\t",
+    "romanUrduTranslationText": "Aur\ttum\tus\twaqt\tdekh\trahe\tho.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "85",
+    "arabicText": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tWe\tare\tnearer\tto\thim\tthan\tyou\tare,\t\nbut\tyou\tcannot\tsee.\t\t\t\t",
+    "romanUrduTranslationText": "Aur\thum\tuske\tziyada\tpās\thaiñ\ttum\tse\t\nmagar\ttumheiñ\t\tnigah\tnahi\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "86",
+    "arabicText": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\twhy\tis\tit\tnot,\tthat\tif\tyou\tare\tnot\tto\tbe\t\nrepaid,\t",
+    "romanUrduTranslationText": "To\tkyuñ\tna\thuwa\tagar\ttumheiñ\tbadla\t\nmilna\tnahi"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "87",
+    "arabicText": "تَرْجِعُونَهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "That\tyou\tbring\tit\tback,\tif\tyou\tare\ttruthful?\t\t",
+    "romanUrduTranslationText": "Ke\tusey\tlauta\tlāte\tagar\ttum\tsachche\tho"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "88",
+    "arabicText": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Then\tif\tthe\tdying\tone\tis\tof\tthose\thaving\t\nproximity,\t-\t\t\t",
+    "romanUrduTranslationText": "Phir\twoh\tmarne\twāla\tagar\tmuqarraboñ\tse\t\nhai\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "89",
+    "arabicText": "فَرَوْحٌۭ وَرَيْحَانٌۭ وَجَنَّتُ نَعِيمٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Then\tis\trelief,\tand\tflowers\t–\tand\tGardens\t\nof\tpeace.\t\t",
+    "romanUrduTranslationText": "To\trāhat\thai\taur\tphool\taur\tchainke\tbāgh"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "90",
+    "arabicText": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tif\the\tis\tof\tthose\ton\tthe\tright,\t-\t\t",
+    "romanUrduTranslationText": "Aur\tagar\tdehni\ttaraf\twaloñ\t\tse\tho"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "91",
+    "arabicText": "فَسَلَـٰمٌۭ لَّكَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Then\tupon\tyou\tis\tthe\tgreetings\tof\tpeace\t(O \ndear Prophet Muhammad – peace and \nblessings be upon him),\tfrom\tthose\ton\tthe\t\nright.\t\t\t",
+    "romanUrduTranslationText": "To\taey\tMehboob!\tTum\tpar\tSalām\tho\tdehni\t\ntaraf\twaloñ\t\tse\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "92",
+    "arabicText": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tif\the\tis\tfrom\tthe\tdeniers,\tthe\tastray,\t\t\t\t",
+    "romanUrduTranslationText": "Aur\tagar\tjhutlāne\twaloñ\tgumrāhoñ\tmeiñ\t\nse\tho\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "93",
+    "arabicText": "فَنُزُلٌۭ مِّنْ حَمِيمٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Then\this\treception\tis\tthe\thot\tboiling\t\nwater.\t",
+    "romanUrduTranslationText": "To\tuski\tmehmāni\tkhaulta\tpāni.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "94",
+    "arabicText": "وَتَصْلِيَةُ جَحِيمٍ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\ta\tcasting\tinto\tthe\tblazing\tfire.\t",
+    "romanUrduTranslationText": "Aur\tbhadakti\tāg\tmeiñ\tdhañsāna\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "95",
+    "arabicText": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "This\tis\tindeed\tan\tutmost\tcertainty.\t\t",
+    "romanUrduTranslationText": "Yeh\tbe-shak\ta’ala\tdaraje\tki\tyaqeeni\tbāt\t\nhai.\t"
+  },
+  {
+    "juz": {
+      "id": "27"
+    },
+    "surah": {
+      "id": "56"
+    },
+    "ayatNumber": "96",
+    "arabicText": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Therefore\t(O\tdear\tProphet\tMuhammad\t-\tpeace\tand\tblessings\tbe\tupon\thim)\tproclaim\tthe\tPurity\tof\t\nthe\tname\tof\tyour\tLord,\tthe\tGreatest.\t",
+    "romanUrduTranslationText": "To\taey\tMehboob!\tTum\tapne\t‘azmat\twāle\tRab\tke\tnām\tki\tpāki\tbolo."
+  }
+]

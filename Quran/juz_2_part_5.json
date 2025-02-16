@@ -1,0 +1,366 @@
+[
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "224",
+    "arabicText": "وَلَا تَجْعَلُوا۟ ٱللَّهَ عُرْضَةًۭ لِّأَيْمَـٰنِكُمْ أَن تَبَرُّوا۟ وَتَتَّقُوا۟ وَتُصْلِحُوا۟ بَيْنَ ٱلنَّاسِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tdo\tnot\tmake\tAllah a\ttarget\tof\tyour\toaths,\tby\tpledging\tagainst\tbeing\tvirtuous\tand\tpious,\tand\t\nagainst\tmaking\tpeace\tamong\tmankind;\tand\tAllah is\tAll\tHearing,\tAll\tKnowing\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\tAllah\tko\tapni\tqasmoñ\tka\tnishāna\tna\tbana\tlo\tke\tehsān\taur\tparhez-gāri\taur\tlogoñ\tmeiñ\tsulah\t\nkarne\tki\tqasam\tkarlo\taur\tAllah\tsunta\tjānta\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "225",
+    "arabicText": "لَّا يُؤَاخِذُكُمُ ٱللَّهُ بِٱللَّغْوِ فِىٓ أَيْمَـٰنِكُمْ وَلَـٰكِن يُؤَاخِذُكُم بِمَا كَسَبَتْ قُلُوبُكُمْ ۗ وَٱللَّهُ غَفُورٌ حَلِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Allah does\t not\t take\t you\t to\t task\t for\t oaths\t\nwhich\t are\t made\t unintentionally\t but\t He\t\ndoes\t take\t you\t to\t task\t for\t deeds\t which\t\nyour\t hearts\t have\t done;\t and\t Allah is\t Oft\t\nForgiving,\tMost\tForbearing.\t\t\t\t\t",
+    "romanUrduTranslationText": "Allah\t tumheiñ\t nahi\t pakadta\t un\t qasmoñ\t\nmeiñ\t jo\t be\t irāda\t zabān\t se\t nikal\t jāye\t hāñ\t\nus\tpar\tgiraft\t farmāta\thai\tjo\t kām\t tumhāre\t\ndil\t ne\t kiye\t aur\t Allah\t bakhsh\t ne\t wāla\t ilm\t\nwāla\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "226",
+    "arabicText": "لِّلَّذِينَ يُؤْلُونَ مِن نِّسَآئِهِمْ تَرَبُّصُ أَرْبَعَةِ أَشْهُرٍۢ ۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Those\twho\tswear\tnot\tto\ttouch\ttheir\twives\t\nhave\t four\t months’\t time;\t so\t if\t they\t turn\t\nback\t during\t this\t period,\t indeed\t Allah is\t\nOft\tForgiving,\tMost\tMerciful.\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t woh jo\t qasam\t kha\t baithe\t haiñ\t apni\t\naurtoñ\t ke\t pās\t jāne\t ki\t unheiñ\t chār\t\nmaheene\tki\tmohlat\thai\tpas\tagar\tis\tmuddat\t\nmeiñ\t phir\t āaye\t to\t Allah\t bakhsh\t ne\t wāla\t\nmaherbān\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "227",
+    "arabicText": "وَإِنْ عَزَمُوا۟ ٱلطَّلَـٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tif\tthey\tfirmly\tdecide\tto\tdivorce\tthem,\t\nAllah is\tAll\tHearing,\tAll\tKnowing.\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t agar\t chord\t dene\t ka\t irāda\t pakka\t kar\t\nliya\tto\tAllah\tsunta\tjānta\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "228",
+    "arabicText": "وَٱلْمُطَلَّقَـٰتُ يَتَرَبَّصْنَ بِأَنفُسِهِنَّ ثَلَـٰثَةَ قُرُوٓءٍۢ ۚ وَلَا يَحِلُّ لَهُنَّ أَن يَكْتُمْنَ مَا خَلَقَ ٱللَّهُ فِىٓ أَرْحَامِهِنَّ إِن كُنَّ يُؤْمِنَّ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ وَبُعُولَتُهُنَّ أَحَقُّ بِرَدِّهِنَّ فِى ذَٰلِكَ إِنْ أَرَادُوٓا۟ إِصْلَـٰحًۭا ۚ وَلَهُنَّ مِثْلُ ٱلَّذِى عَلَيْهِنَّ بِٱلْمَعْرُوفِ ۚ وَلِلرِّجَالِ عَلَيْهِنَّ دَرَجَةٌۭ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\t divorced\t women\t shall\t restrain\t\nthemselves\t for\t three\t menstrual\t periods;\t\nand\t it\t is\t not\t lawful\t for them\t to\t conceal\t\nwhat\tAllah has\t created\tin\t their\twombs\tif\t\nthey\t believe\t in\t Allah and\t the\t Last\t Day;\t\nand\ttheir\thusbands\thave\tthe\tright\tto\ttake\t\nthem\tback,\tduring\tthis\ttime,\tif\tthey\tdesire\t\nreconciliation;\t and\t the\t women\t also\t have\t\nrights\tsimilar\t to\t those\tof\tmen\tover\t them,\t\nin\taccordance\twith\tIslamic\tlaw\t- and\tmen\t\nhave\t superiority\t over\t them;\t and\tAllah is\t\nAlmighty,\tWise.\t\t\t",
+    "romanUrduTranslationText": "Aur\t talāq\t wāliyāñ\t apni\t jānoñ\t ko\t roke\t\nraheiñ\tteen\thaiz\ttak\taur\tunheiñ\thalāl\tnahi\t\nke\t chupāyeiñ\t woh\t jo\t Allah\t ne\t unke\t pet\t\nmeiñ\t paida\t kiya\t agar\t Allah\t aur\t Qayāmat\t\npar\tImān\trakhti\thaiñ\taur\tunke\tshauharoñ\t\nko\tis\tmuddat\tke\tandar\tunke\tpher\tlene\tka\t\nhaq\tpahuñchta\thai\tagar\tmilāp\tchāheiñ\taur\t\naurtoñ\tka\tbhi\thaq\taisa\thi\thai\tjaisa\tun\tpar\t\nhai\t shar'a\t ke\tmuwāfiq\taur\tmardoñ\t ko\t un\t\npar\t fazilat\t hai\t aur\t Allah\t ghālib\t hikmat\t\nwāla\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "229",
+    "arabicText": "ٱلطَّلَـٰقُ مَرَّتَانِ ۖ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَـٰنٍۢ ۗ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "This\t type\t of\t divorce\t is\t up\t to\t twice;\t the\t\nwoman\t must\t then\t be\t retained\t on\t good\t\nterms\tor\treleased\twith\tkindness;\tand\tit\tis\t\nnot\t lawful\t for\t you\t to\t take\t back\t from\t\nwomen\t a\t part\t of\t what\t you\t have\t given\t\nthem\t except\t when\t both\t fear\t that\t they\t\nmay\t not\t be\table\t to\t stay\twithin\t the\tlimits\t\nestablished\t by\t Allah;\t so\t if\t you\t fear\t that\t\nthey\tmay\tnot\tbe\table\tto\tobserve\tthe\tlimits\t\nof\tAllah,\tthen\tit\tis\tno\tsin\ton\tthem\tif\tthe\twoman\tpays\tto\tget\ther\trelease;\tthese\tare\tthe\tlimits\tset\t\nby\tAllah,\tso\tdo\tnot\texceed\tthem;\tand\tthose\twho\ttransgress\tAllah’s\tlimits\tare\tthe\tunjust.\t\t\t\t",
+    "romanUrduTranslationText": "Yeh\t talāq\t do\t bār\t tak\t hai\t phir\t bhalāi\t ke\t\nsāth\trok\tlena\thai\tya\tnikoi (achche\tsulook)\t\nke\tsāth\tchord\tdena\thai\taur\ttumheiñ\trawāñ\t\nnahi\t ke jo\t kuch\t aurtoñ\t ko\t diya\t wāpas\t lo\t\nmagar\tjab\t donoñ\t ka\t andesha\t ho\t ke\tAllah\t\nki\t hadeiñ\t qāim\t na\t kareñge\t phir\t agar\t\ntumheiñ\t khauf\t ho\t ke\t woh\t dono\t theek\t\nunhiñ\t hadoñ\t par\t na\t raheñge\t to\t un\t par\t\nkuchh\tgunāh\t nahi\tis\tmeiñ\tjo\t badla\t dekar\t\naurat\tchhutti\tle\tyeh\tAllah\tki\thadeiñ haiñ\tunse\tāage\tna\tbadho\taur\tjo\tAllah\tki\thadoñ\tse\tāge\tbadhe\t\nto\twohi\tlog\tzālim\thaiñ."
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "230",
+    "arabicText": "فَإِن طَلَّقَهَا فَلَا تَحِلُّ لَهُۥ مِنۢ بَعْدُ حَتَّىٰ تَنكِحَ زَوْجًا غَيْرَهُۥ ۗ فَإِن طَلَّقَهَا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يَتَرَاجَعَآ إِن ظَنَّآ أَن يُقِيمَا حُدُودَ ٱللَّهِ ۗ وَتِلْكَ حُدُودُ ٱللَّهِ يُبَيِّنُهَا لِقَوْمٍۢ يَعْلَمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Then\tif\the\tdivorces\ther\t the\t third\t time,\tshe\twill\tnot\tbe\tlawful\t to\thim\tuntil\tshe\thas\tstayed\twith\t\nanother\thusband;\tthen\tif\tthe\tother\thusband\tdivorces\ther,\tit\tis\tno\tsin\tfor\tthese\ttwo\tto\treunite\tif\t\nthey\tconsider\tthat\tthey\tcan\tkeep\tthe\tlimits\tof\tAllah established;\tthese\tare\tthe\tlimits\tset\tby\tAllah\nwhich\tHe\texplains\tfor\tpeople\tof\tintellect\t\t\t\t",
+    "romanUrduTranslationText": "Phir\tagar\tteesri\ttalāq\tusey\tdi\tto\tab\twoh\taurat\tusey\thalāl\tna\thogi\tjab\ttak\tdoosre\tkhuāwind\tke\tpās\t\nna\t rahe\t phir\twoh\t doosra\tagar\tise\t talāq\t de\t de\t un\t dono\t par\tgunāh\t nahi\t ke\t phir āpas\tmeiñ\tmil\t\njāyeiñ\t agar\t samjhte\t hoñ\t ke\t Allah\t ki\t hadeiñ\t nibhāyeñge\t aur\t yeh\t Allah\t ki\t hadeiñ\t haiñ\t jinheiñ\t\nbayān\tkarta\thai\tdānish-mandoñ\tke\tliye"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "231",
+    "arabicText": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَأَمْسِكُوهُنَّ بِمَعْرُوفٍ أَوْ سَرِّحُوهُنَّ بِمَعْرُوفٍۢ ۚ وَلَا تُمْسِكُوهُنَّ ضِرَارًۭا لِّتَعْتَدُوا۟ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَقَدْ ظَلَمَ نَفْسَهُۥ ۚ وَلَا تَتَّخِذُوٓا۟ ءَايَـٰتِ ٱللَّهِ هُزُوًۭا ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ وَمَآ أَنزَلَ عَلَيْكُم مِّنَ ٱلْكِتَـٰبِ وَٱلْحِكْمَةِ يَعِظُكُم بِهِۦ ۚ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\twhen\tyou\thave\tdivorced\twomen,\tand\t\ntheir\t term\t reaches\t its\t end,\t either\t retain\t\nthem\ton\tgood\tterms\twithin\tthis\tperiod\tor\t\nrelease\t them\t with\t kindness;\t and\t do\t not\t\nretain\t them\tin\t order\t to\thurt\t them,\thence\t\ntransgressing\tthe\tlimits;\tand\the\twho\tdoes\t\nso\t harms\t only himself;\t and\t do\t not\t make\t\nthe\t signs\t of\tAllah the\t objects\t of\t ridicule;\t\nand\t remember\t Allah’s\t favour\t that\t is\t\nbestowed\tupon\t you\tand\t that\tHe\thas\tsent\t\ndown\t to\t you\t the\t Book\t and\t wisdom,\t for\t\nyour\t guidance;\t keep\t fearing\t Allah and\t\nknow\t well\t that\t Allah knows\t everything.\t\n(The\t traditions\t of\t the\t Holy\t Prophet\t –\nsunnah\tand\thadith\t– are\tcalled\twisdom.)\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t jab\t tum\t aurtoñ\t ko\t talāq\t do\t aur\t unki\t\nmee'ād\tā\tlage\tto\tus\twaqt\ttak\tya\tbhalāi\tke\t\nsāth\t rok\t lo\t ya\t nikoi (achche\t sulook) ke\t\nsāth\t chhod\t do\t aur\t unheiñ\t zarar\t dene\t ke\t\nliye\t rokna\t na\t ho\t ke\t had\t se\t badho\t aur\t jo\t\naisa\t kare\t woh\t apna\t hi\t nuqsān\t karta\t hai\t\naur\tAllah\t hi\t ki\t āyatoñ\t ko\t that-ta\t na\t banā\t\nlo\taur\tyād\tkaro\tAllah\tka\tehsān\tjo\ttum\tpar\t\nhai\t aur\t woh\t jo\t tum\t par\t Kitāb\t woh\t utāri\t\ntumheiñ\t naseehat\t dene\t ko\t aur\t Allah\t se\t\ndarte\t raho\t aur\t jān\t rakho\t ke\t Allah\t sab\t\nkuch\tkar\tsakta\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "232",
+    "arabicText": "وَإِذَا طَلَّقْتُمُ ٱلنِّسَآءَ فَبَلَغْنَ أَجَلَهُنَّ فَلَا تَعْضُلُوهُنَّ أَن يَنكِحْنَ أَزْوَٰجَهُنَّ إِذَا تَرَٰضَوْا۟ بَيْنَهُم بِٱلْمَعْرُوفِ ۗ ذَٰلِكَ يُوعَظُ بِهِۦ مَن كَانَ مِنكُمْ يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۗ ذَٰلِكُمْ أَزْكَىٰ لَكُمْ وَأَطْهَرُ ۗ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\twhen\tyou\thave\tdivorced\twomen\tand\t\nthey\tcomplete\ttheir\twaiting\tperiod\t- then\t\nO\t guardians\t of\t such\t women,\t do\t not\t\nprevent\t them\t from\t marrying\t their\t\nhusbands\t if\t they\t agree\t between\t\nthemselves\t in\t accordance\t with\t Islamic\t\nlaw;\tthis\tlesson\tis\tfor\tthose\tamong\tPeople\t\nwho\t Believe\t in\t Allah and\t the\t Last\t Day;\t\nthis\t is\t purer\t for\t you,\t and\t cleaner;\t and\t\nAllah knows\tand\tyou\tdo\tnot\tknow.\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t jab\t tum\t aurtoñ\t ko\t talāq\t do\t aur\t unki\t\nmee'ād\t poori\t ho\t jāye\t to\t aey\t aurtoñ\t ke\t\nwāliyo\t unheiñ\t na\t rokoñ\t is\t se\t ke\t apne\t\nshauharoñ\t se\t nikah\t kar\t leiñ\t jab\t ke\t āpas\t\nmeiñ\t muwāfiq-e-shar'a\t raza-mand\t ho\t\njāyeiñ\tyeh\tnaseehat\tuse\tdi\tjāti\thai\tjo\t tum\t\nmeiñ\t se\t Allah\t aur\t Qayāmat\t par\t Imān\t\nrakhta\tho\tyeh\t tumhāre\tliye\tziyāda\tsuthra\t\naur\t pākizah\t hai\t aur\t Allah\t jānta\t hai\t aur\t\ntum\tnahi\tjānte\t"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "233",
+    "arabicText": "۞ وَٱلْوَٰلِدَٰتُ يُرْضِعْنَ أَوْلَـٰدَهُنَّ حَوْلَيْنِ كَامِلَيْنِ ۖ لِمَنْ أَرَادَ أَن يُتِمَّ ٱلرَّضَاعَةَ ۚ وَعَلَى ٱلْمَوْلُودِ لَهُۥ رِزْقُهُنَّ وَكِسْوَتُهُنَّ بِٱلْمَعْرُوفِ ۚ لَا تُكَلَّفُ نَفْسٌ إِلَّا وُسْعَهَا ۚ لَا تُضَآرَّ وَٰلِدَةٌۢ بِوَلَدِهَا وَلَا مَوْلُودٌۭ لَّهُۥ بِوَلَدِهِۦ ۚ وَعَلَى ٱلْوَارِثِ مِثْلُ ذَٰلِكَ ۗ فَإِنْ أَرَادَا فِصَالًا عَن تَرَاضٍۢ مِّنْهُمَا وَتَشَاوُرٍۢ فَلَا جُنَاحَ عَلَيْهِمَا ۗ وَإِنْ أَرَدتُّمْ أَن تَسْتَرْضِعُوٓا۟ أَوْلَـٰدَكُمْ فَلَا جُنَاحَ عَلَيْكُمْ إِذَا سَلَّمْتُم مَّآ ءَاتَيْتُم بِٱلْمَعْرُوفِ ۗ وَٱتَّقُوا۟ ٱللَّهَ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\t mothers\t shall\t breast-feed\t their\t\nchildren\tfor\ttwo\tfull\tyears\t- for\tthose\twho\t\nwish\tto\tcomplete\tthe\tterm\tof\tmilk\tfeeding;\t\nand\t the\t father\t of\t the\t child\t must\t provide\t\nfor\t food\t and\t clothing\t of\t the\t mother\t in\t\naccordance\t with\t custom;\t no\t one\t will\t be\t\nburdened\texcept\twith\twhat\the\tcan\tbear;\ta\tmother\tshould\tnot\tbe\tharmed\tbecause\tof\ther\tchild,\t\nnor\the\tto\twhom\tthe\tchild\tis\tborn\tbe\tharmed\tbecause\tof\this\tchild\t(or\ta\tmother\tshould\tnot\tharm\t\nthe\tchild\tnor\the\tto\twhom\tthe\tchild\tis\tborn\tshould\tharm\tthe\tchild);\tand\tthe\tsame\tis\tincumbent\ton\t\nthe\t guardian\t in\t place\t of\t the\t father;\t then\t if\t the\t parents\t desire\t to\t wean\t the\t child\t by\t mutual\t\nconsent\tand\tconsultation,\tit\tis\tno\tsin\t for\t them;\tand\tif\t you\twish\t to\tgive\t your\tchildren\tout\t to\ta\t\n(milk\t feeding)\t nurse,\t it\t is\t no\t sin\t for\t you,\t provided\t you\t pay\t to\t them\t what\t is\t agreed,\t with\t\nkindness;\tand\tkeep\tfearing\tAllah,\tand\tknow\twell\tthat\tAllah is\tseeing\twhat\tyou\tdo\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t māyeiñ\t doodh\t pilāyeiñ\t apne\t\nbachchoñ\t ko\t poore\t do\t baras\t uske\t liye\t jo\t\ndoodh\t ki\t muddat\t poori\t karna\t chāhe\t aur\t\njis\tka\tbachcha\thai\tus\tpar\taurtoñ\tka\tkhāna\t\naur\t pahen\t na\t hai\t hasbe\t dastoor\t kisi\t jān\t\npar\t bojh\t na\t rakha\t jayega\t magar\t uske\t\nmaqdoor\t bhar\t mā\t ka\t zarar\t na\t diya\t jāye\t\nuske\tbachche\tse\taur\tna\taulād\twāle\tko\tuski\t\naulād\tse\tya\tmā\tzarar\tna\tde\tapne\tbachche\t\nko\taur\tna\taulād\twāla\tapni\taulād\tko\taur\tjo\t\nbāp\tka\tqāim\tmaqām\thai\tus\tpar\tbhi\taisa\thi\twājib\thai\tphir\tagar\tmā\tbāp\tdonoñ\tāpas\tki\traza\taur\t\nmashware\tse\tdoodh\tchhudāna\tchāheiñ\t to\tunpar\tgunah\tnahi\taur\tagar\t tum\tchāho\tke\tdāiyoñ\tse\t\napne\tbachche\tko\tdoodh\tpilwao to\tbhi\ttum\tpar\tmuzāiqa\tnahi\tjab\tke\tjo\tdena\tthehra\ttha\tbhalāi\tke\t\nsāth\tunheiñ\tada\tkardo\taur\tAllah\tse\tdarte\traho\taur\tjān\trakho\tke\tAllah\ttumhāre\tkām\tdekh\trahā\t\nhai\t"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "234",
+    "arabicText": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًۭا يَتَرَبَّصْنَ بِأَنفُسِهِنَّ أَرْبَعَةَ أَشْهُرٍۢ وَعَشْرًۭا ۖ فَإِذَا بَلَغْنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيْكُمْ فِيمَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ بِٱلْمَعْرُوفِ ۗ وَٱللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\t those\t among\t you\t who\t die\t leaving\t\nwives\t behind\t them,\t then\t such\t widows\t\nshall\trestrain\tthemselves\t for\t four\tmonths\t\nand\t ten\t days;\t so\t when\t their\t term\t is\t\ncompleted,\t O\t guardians\t of\t such\t women,\t\nthere\tis\tno\tsin\ton\tyou in\twhat\tthe\twomen\t\nmay\tdecide\t for\t themselves\tin\taccordance\t\nwith\tIslamic\tlaw;\tand\tAllah is\tWell\tAware\t\nof\twhat\tyou\tdo.\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t tum\t meiñ\t jo\t mareiñ\t aur\t biwiyāñ\t\nchordeiñ\t woh\t chār\t mahine\t das\t din\t apne\t\nāp\tko\troke\traheiñ\t to\tjab\tunki\tiddat\tpoori\t\nho\tjāye\t to\t aey\twāliyo\t tum\t par\tmuākhaza\t\nnahi\t us\t kām\t meiñ\t jo\t aurteiñ\t apne\t\nmu'āmle\t meiñ\t muwāfiq-e-shar'a\t kareiñ\t\naur\t Allah\t ko\t tumhāre\t kāmoñ\t ki\t khabar\t\nhai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "235",
+    "arabicText": "وَلَا جُنَاحَ عَلَيْكُمْ فِيمَا عَرَّضْتُم بِهِۦ مِنْ خِطْبَةِ ٱلنِّسَآءِ أَوْ أَكْنَنتُمْ فِىٓ أَنفُسِكُمْ ۚ عَلِمَ ٱللَّهُ أَنَّكُمْ سَتَذْكُرُونَهُنَّ وَلَـٰكِن لَّا تُوَاعِدُوهُنَّ سِرًّا إِلَّآ أَن تَقُولُوا۟ قَوْلًۭا مَّعْرُوفًۭا ۚ وَلَا تَعْزِمُوا۟ عُقْدَةَ ٱلنِّكَاحِ حَتَّىٰ يَبْلُغَ ٱلْكِتَـٰبُ أَجَلَهُۥ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ مَا فِىٓ أَنفُسِكُمْ فَٱحْذَرُوهُ ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ غَفُورٌ حَلِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tthere\tis\tno\tsin\ton\tyou\tif\tyou\tpropose\t\nmarriage\tto\twomen\twhile\tthey\tare\thidden\t\nfrom\tyour\tview,\tor\thide\tit\tin\tyour\thearts;\t\nAllah knows\tthat\tyou\twill\tnow\tremember\t\nthem,\t but\t do\t not\t make\t secret\t pacts\t with\t\nwomen\t except\t by\t decent\t words\t\nrecognised\t by\t Islamic\t law;\t and\t do\t not\t\nconsummate\t the\t marriage\t until\t the\t\nwritten\tcommand\treaches\tits\tcompletion;\t\nknow\t well\t that\t Allah knows\t what\t is\t in\t\nyour\thearts,\ttherefore\tfear\tHim;\tand\tknow\t\nwell\t that\t Allah is\t Oft\t Forgiving,\t Most\t\nForbearing\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t tum\t par\t gunāh\t nahi\t is\t bāt\t meiñ\t jo\t\nparda\t rakh\t kar\t tum\t aurtoñ\t ke\t nikāh\t ka\t\npayām\tdo\tya\tapne\tdil\tmeiñ\tchhupa\trakho\t\nAllah jānta\thai\tke\tab\ttum\tunki\tyād\tkaroge\t\nhāñ\t unse\t khufiya\t wa'da\t na\t kar\t rakho\t\nmagar\t yeh\t ke\t itni\t hi\t bāt\t kaho\t jo\t shar'a\t\nmeiñ\tm'aroof\thai aur nikāh\tki\tgirah\tpakki\t\nna\t karo\t jab\t tak\t likha\t huwa\t hukm\t apni\t\nmee'ād\t ko\t na\t pahuñch\t le\t aur\t jān\t lo\t ke\t\nAllah\ttumhāre\tdil\tki\tjānta hai\tto\tus\tse\tdaro\t\naur\t jān\t lo\t ke\t Allah\t bakhsh\t ne\t wāla\t hilm\t\nwāla\thai."
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "236",
+    "arabicText": "لَّا جُنَاحَ عَلَيْكُمْ إِن طَلَّقْتُمُ ٱلنِّسَآءَ مَا لَمْ تَمَسُّوهُنَّ أَوْ تَفْرِضُوا۟ لَهُنَّ فَرِيضَةًۭ ۚ وَمَتِّعُوهُنَّ عَلَى ٱلْمُوسِعِ قَدَرُهُۥ وَعَلَى ٱلْمُقْتِرِ قَدَرُهُۥ مَتَـٰعًۢا بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُحْسِنِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "There\t is\t no\t sin\t upon\t you\t if\t you\t divorce\t\nwomen\twhile\tyou\thave\tnot\ttouched\tthem\t\nor\tappointed\ttheir\tbridal\tmoney;\tand\tgive\t\nthem\t some\t provision;\t the\t rich\t according\t\nto\ttheir\tmeans,\tand\tthe\tpoor\taccording\tto\t\ntheir\tmeans;\ta\tfair\tprovision\taccording\tto\t\ncustom;\tthis\tis\ta\tduty\tupon\tthe\tvirtuous.\t\t\t\t\t\t",
+    "romanUrduTranslationText": ". Tum\t par\t kuchh\t mutālba\t nahi\t agar\t tum\t\naurtoñ\t ko\t talāq\t do\t jab\t tak\t tum\t ne\t unko\t\nhāth\tna\tlagāya\tho\tya\tkoi\tmaher\tmuqarrar\t\nkar\tliya\t ho\t aur\t unko\t kuch\t baratne\t ko\t do\t\nmaqdoor\twāle\tpar\tuske\tlāiq\taur\ttang-dast\t\npar\tuske\tlāiq\thasb-e-dastoor\tkuch\tbaratne\t\nki\tcheez\tyeh\twājib\thai\tbhalāi\twāloñ\tpar."
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "237",
+    "arabicText": "وَإِن طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ وَقَدْ فَرَضْتُمْ لَهُنَّ فَرِيضَةًۭ فَنِصْفُ مَا فَرَضْتُمْ إِلَّآ أَن يَعْفُونَ أَوْ يَعْفُوَا۟ ٱلَّذِى بِيَدِهِۦ عُقْدَةُ ٱلنِّكَاحِ ۚ وَأَن تَعْفُوٓا۟ أَقْرَبُ لِلتَّقْوَىٰ ۚ وَلَا تَنسَوُا۟ ٱلْفَضْلَ بَيْنَكُمْ ۚ إِنَّ ٱللَّهَ بِمَا تَعْمَلُونَ بَصِيرٌ",
+    "urduTranslationText": "",
+    "englishTranslationText": "If\tyou\tdivorce\tthem\tbefore\tyou\thave\ttouched\tthem\tand\thave\tappointed\tthe\tbridal\tmoney,\tthen\t\npayment\tof\thalf\tof\twhat\tis\tagreed\tis\tordained\tunless\tthe\twomen\tforgo\tsome\tof\tit,\tor\the\tin\twhose\t\nhand\tis\tthe\tmarriage\ttie,\tpays\tmore;\tand\tO\tmen,\tyour\tpaying\tmore\tis\tcloser\tto\tpiety;\tand\tdo\tnot\t\nforget\tthe\tfavours\tto\teach\tother;\tindeed\tAllah is\tseeing\twhat\tyou\tdo.\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\tagar\ttum\tne\taurtoñ\tko\tbe-chuwe\ttalāq\tde\tdi\taur\tunke\tliye\tkuch\tmaher\tmuqarrar\tkar\tchuke\t\nthey\tto\tjitna\tthahra\ttha\tuska\tādha\twājib\thai\tmagar\tyeh\tke\taurteiñ\tkuch\tchord\tdeiñ\twoh\tziyāda\t\nde\t jiske\t hāth\t meiñ\t nikāh\t ki\t girah\t hai\t aur\t aey\t mardoñ\t tumhāra\t ziyāda\t dena\t parhez-gāri\t se\t\nnazdeek\ttar\thai\taur\tāpas\tmeiñ\tek\tdoosre\tpar\tehsān\tko\tbhula\tna\tdo\tbeshak\tAllah\ttumhāre\tkām\t\ndekh\traha\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "238",
+    "arabicText": "حَـٰفِظُوا۟ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلْوُسْطَىٰ وَقُومُوا۟ لِلَّهِ قَـٰنِتِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": " Guard\t all\t your\t prayers,\t and\t the\t middle\t\nprayer;\t and\t stand\t with\t reverence\t before\t\nAllah\t\t\t\t\t\t",
+    "romanUrduTranslationText": " Nigehbāni\tkaro\tsab\tNamāzoñ\tki\taur\tbeech\t\nki\tNamāz\tki\taur\tkhade\tho\tAllah\tke\thuzoor\t\nadab\tse\t"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "239",
+    "arabicText": "فَإِنْ خِفْتُمْ فَرِجَالًا أَوْ رُكْبَانًۭا ۖ فَإِذَآ أَمِنتُمْ فَٱذْكُرُوا۟ ٱللَّهَ كَمَا عَلَّمَكُم مَّا لَمْ تَكُونُوا۟ تَعْلَمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tif\t you\tare\tin\t fear,\tpray\twhile\ton\t foot\t\nor\twhile\triding,\tas\tyou\tcan;\twhen\tyou\tare\t\nin\tpeace\tremember\tAllah the\tway\tHe\thas\t\ntaught\tyou,\twhich\tyou\tdid\tnot\tknow.\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": ". Phir\t agar\t khauf\t meiñ\t hoto\t piyādah\t ya\t\nsawār\tjaise\tban\tpade\tphir\tjab\titmenān se\t\nho\tto\tAllah\tki\tyād\tkaro\tjaisa\tusne\tsikhāya\t\njo\ttum\tna\tjānte\tthey\t.\t"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "240",
+    "arabicText": "وَٱلَّذِينَ يُتَوَفَّوْنَ مِنكُمْ وَيَذَرُونَ أَزْوَٰجًۭا وَصِيَّةًۭ لِّأَزْوَٰجِهِم مَّتَـٰعًا إِلَى ٱلْحَوْلِ غَيْرَ إِخْرَاجٍۢ ۚ فَإِنْ خَرَجْنَ فَلَا جُنَاحَ عَلَيْكُمْ فِى مَا فَعَلْنَ فِىٓ أَنفُسِهِنَّ مِن مَّعْرُوفٍۢ ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\t those\t among\t you\t who\t die\t leaving\t\nwives\t behind\t them\t - they\t should\t\nbequeath\t for\t their\t wives\t a\t complete\t\nprovision\t for\t one\t full\t year\t without\t\nturning\t them\t out;\t so\t if\t they\t go\t out\t\nthemselves,\t there\t is\t no\t sin\t on\t you\t\nregarding\twhat\tthey\tdo\tof\tthemselves\tin\ta\t\nreasonable\tmanner;\tand\tAllah is\tAlmighty,\t\nWise.\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t jo\t tum\t meiñ\t mareiñ\t aur\t biwiyāñ\t\nchhod\t jāyeiñ\t aurtoñ\t ke\t liye\t wasiyat\t kar\t\njāyeiñ\t sāl\t bhar\t tak\t nān-o-nafqa\t dene\t ki\t\nbe-nikāle\tphir\tagar\twoh\tkhud\tnikal\tjāyeiñ\t\nto\t tum\t par\t iska\t mu'ākhza\t nahi Jo\t unhoñ\t\nne\t apne\tmu'āmle\tmeiñ\tmunāsib\t taur\t par\t\nkiya\taur\tAllah\tghālib\thikmat\twāla\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "241",
+    "arabicText": "وَلِلْمُطَلَّقَـٰتِ مَتَـٰعٌۢ بِٱلْمَعْرُوفِ ۖ حَقًّا عَلَى ٱلْمُتَّقِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\t for\t divorced\t women\t also,\t is\t a\t\ncomplete\tprovision\tin\treasonable\tmanner;\t\nthis\tis\ta\tduty\tupon\tthe\tpious.\t\t\t\t\t\t",
+    "romanUrduTranslationText": " Aur\t talāq\t wāliyoñ\t ke\t liye\t bhi\t munāsib\t\nnān-o-nafqa\t hai\t yeh\t wājib\t hai\t parhez\u0002gāroñ\tpar\t"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "242",
+    "arabicText": "كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَـٰتِهِۦ لَعَلَّكُمْ تَعْقِلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "This\t is\t how\t Allah explains\t His\t verses\t to\t\nyou\tso\tthat\tyou\tmay understand.\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Allah\tyooñ\thi\tbayān\tkarta\thai\ttumhāre\tliye\tapni\tĀyateiñ\tke\tkahiñ\ttumheiñ\tsamjh\tho"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "244",
+    "arabicText": "وَقَـٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tfight\tin\tAllah's\tcause\tand\tknow\twell\tthat\tAllah is\tAll\tHearing,\tAll\tKnowing\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\tlardo\tAllah\tki\trāh\tmeiñ\taur\tjān\tlo\tke\tAllah\tsunta\tjānta\thai\t"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "245",
+    "arabicText": "مَّن ذَا ٱلَّذِى يُقْرِضُ ٱللَّهَ قَرْضًا حَسَنًۭا فَيُضَـٰعِفَهُۥ لَهُۥٓ أَضْعَافًۭا كَثِيرَةًۭ ۚ وَٱللَّهُ يَقْبِضُ وَيَبْصُۜطُ وَإِلَيْهِ تُرْجَعُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Is\t there\tsomeone\twho\twill\tlend\tan\texcellent\tloan\t to\tAllah,\tso\t that\tHe\tmay\tincrease\tit\t for\thim\t\nseveral\ttimes\tover?\tAnd\tAllah restricts\tand\teases\t(the\tsustenance)\t- and\tit\tis\tto\tHim\tthat\tyou\twill\t\nreturn.\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Hai\t koi\t jo\t Allah\t ko\t qarz-e-hasan\t de\t to\t Allah\t uske\t liye\t bahut\t guna\t badha\t de\t Allah\t tangi\t aur\t\nkushaish\tkarta\thai\taur\ttumheiñ\tusi\tki\ttaraf\tphir\tjāna"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "246",
+    "arabicText": "أَلَمْ تَرَ إِلَى ٱلْمَلَإِ مِنۢ بَنِىٓ إِسْرَٰٓءِيلَ مِنۢ بَعْدِ مُوسَىٰٓ إِذْ قَالُوا۟ لِنَبِىٍّۢ لَّهُمُ ٱبْعَثْ لَنَا مَلِكًۭا نُّقَـٰتِلْ فِى سَبِيلِ ٱللَّهِ ۖ قَالَ هَلْ عَسَيْتُمْ إِن كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ أَلَّا تُقَـٰتِلُوا۟ ۖ قَالُوا۟ وَمَا لَنَآ أَلَّا نُقَـٰتِلَ فِى سَبِيلِ ٱللَّهِ وَقَدْ أُخْرِجْنَا مِن دِيَـٰرِنَا وَأَبْنَآئِنَا ۖ فَلَمَّا كُتِبَ عَلَيْهِمُ ٱلْقِتَالُ تَوَلَّوْا۟ إِلَّا قَلِيلًۭا مِّنْهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": ". Did\t you\t (O\t dear\t Prophet\t Muhammad -\npeace\tand\tblessings\tbe\tupon\thim)\tnot\tsee\ta\t\ngroup\t of\t the\t Descendants\t of\t Israel,\t after\t\nMoosa?\t When\t they\t said\t to\t one\t of\t their\t\nProphets\t(Shamueel\t- Samuel),\t“Appoint\ta\t\nking\tfor\tus\t so\tthat\twe\tmay\tfight\tin\tAllah’s\t\nway”?\t He\t said,\t “Do\t you\t think\t you\t would\t\nrefrain\t from\t fighting\t if\t it\t is\t made\t\nobligatory\t for\t you?”\t They\t said,\t “What\t is\t\nthe\t matter\t with\t us\t that\t we\t should\t not\t\nfight\t in\t Allah’s\t cause,\t whereas\t we\t have\t\nbeen\tdriven\taway\tfrom\tour\thomeland\tand\t\nour\t children?”\t So\t when\t fighting\t was\t\nordained\t for\t them,\t they\t all\t turned\t away,\t\nexcept\t a\t few;\t and\tAllah is\tWell\t Aware\t of\t\nthe\tunjust.\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": ". Aey\t Mehboob kiya\t tumne\t na\t dekha\t bani\t\nIsra’il\t ke\t ek\t giroh\t ko\t jo\t moosa\t ke\t b'ad\t\nhuwa\t jab\t apne\t ek\t Paighambar\t se\t bole\t\nhamāre\t liye\t khadā\t kardo\t ek\t bādshāh\t ke\t\nhum\t khuda\t ki\t rāh\t meiñ\t ladeiñ\t Nabi\t ne\t\nfarmāya\tkiya\t tumhāre\tandāz\taise\thaiñ\tke\t\ntum\t par\t Jihād\t farz\t kiya\t jāye\t to\t phir\t na\t\nkaro\tbole\thameiñ\tkiya\thuwa\tke\tham\tAllah\t\nki\trāh\tmeiñ\tna\tladeiñ\thalāñke\tham\tnikāle\t\ngaye\thaiñ\tapne\twatan\taur\tapni\taulād\tse\tto\t\nphir\tjab\tun\tpar\tjihād\tfarz\tkiya\tgaya\tmooñh\t\npher\t gaye\t magar\t un\t meiñ\t ke\t thode\t aur\t\nAllah khoob\tjānta\thai\tzālimoñ\tko"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "247",
+    "arabicText": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ٱللَّهَ قَدْ بَعَثَ لَكُمْ طَالُوتَ مَلِكًۭا ۚ قَالُوٓا۟ أَنَّىٰ يَكُونُ لَهُ ٱلْمُلْكُ عَلَيْنَا وَنَحْنُ أَحَقُّ بِٱلْمُلْكِ مِنْهُ وَلَمْ يُؤْتَ سَعَةًۭ مِّنَ ٱلْمَالِ ۚ قَالَ إِنَّ ٱللَّهَ ٱصْطَفَىٰهُ عَلَيْكُمْ وَزَادَهُۥ بَسْطَةًۭ فِى ٱلْعِلْمِ وَٱلْجِسْمِ ۖ وَٱللَّهُ يُؤْتِى مُلْكَهُۥ مَن يَشَآءُ ۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\t their\t Prophet\t said\t to\t them,\t “Indeed\t\nAllah has\tsent\tTalut\t(Saul)\tas\t your\t king”;\t\nthey\t said,\t “Why\t should\t he\t have\t kingship\t\nover\tus\twhereas\twe\tdeserve\tthe\tkingship\t\nmore\t than\the,\tand\tnor\thas\the\tbeen\tgiven\t\nenough\t wealth?”\t He\t said,\t “Indeed\t Allah\nhas\t chosen\t him\t above\t you,\t and\t has\t\nbestowed\t him\t with\t vast\t knowledge\t and\t\nphysique”;\t and\t Allah may\t bestow\t His\t\nkingdom\t on\t whomever\t He\t wills;\t and\t\nAllah is\tMost\tCapable,\tAll\tKnowing\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Aur\t unse\t unke\t Nabi\t ne\t farmāya\t beshak\t\nAllah\t ne\t Taloot\t ko\t tumhāra\t bādshāh\t\nbanākar\t bheja\t hai\t bole\t usey\t ham\t par\t\nbādshāhi\tkiyuñ\tkar\thogi\taur\tham\tus\tse\tziyāda\tsaltanat\tke\tmustahiq\thaiñ\taur\tusey\tmāl\tmeiñ\tbhi\t\nwus'at\tnahi\tdi\tgyi\tfarmāya\tusey\tAllah\tne\ttum\tpar\tchun\tliya\taur\tusey\tilm\taur\tjism\tmeiñ\tkushadgi\t\nziyāda\tdi\taur\tAllah\tapna\tmulk\tjise\tchāhe\tde\taur\tAllah\twus'at\twāla\tilm\twāla\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "248",
+    "arabicText": "وَقَالَ لَهُمْ نَبِيُّهُمْ إِنَّ ءَايَةَ مُلْكِهِۦٓ أَن يَأْتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٌۭ مِّن رَّبِّكُمْ وَبَقِيَّةٌۭ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَـٰرُونَ تَحْمِلُهُ ٱلْمَلَـٰٓئِكَةُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لَّكُمْ إِن كُنتُم مُّؤْمِنِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\t their\t Prophet\t said\t to\t them,\t “Indeed\t\nthe\tsign\tof\this\tkingdom\twill\tbe\tthe\tcoming\tof\ta\t(wooden)\tbox\tto\tyou,\tin\twhich\tfrom\tyour\tLord\tis\t\nthe\t contentment\t of\t hearts\t and\t containing\t some\t souvenirs\t (remnants)\t left\t behind\t by\t the\t\nhonourable\tMoosa\tand\t the\thonourable\tHaroon\t(Aaron),\tborne\tby\t the\tangels;\tindeed\tin\tit\tis\ta\t\ngreat\tsign*\tfor\tyou\tif\tyou\tare\tbelievers.”\t(The\tremnants\tof\tpious\tpersons\tare\tblessed\tby\tAllah.)\t\t\t\t\t\t",
+    "romanUrduTranslationText": ". Aur\tunse\tunke\tNabi\tne\tfarmāya\tuski\tbādshāhi\tki\tnishāni\tyeh\thai\tke\tāye\ttumhāre\tpās\tTaboot\tjis\t\nmeiñ\t tumhāre\tRab ki\t taraf\tse\tdiloñ\tka\tchain\thai\taur\tkuch\tbachi\thuwi\tchizeiñ\tmo'azzaz\tmoosa\t\naur\tmo'azzaz\tHaroon\tke\ttarke\tki\tuthāte\tlāyeñ\tge\tusey\tfirishtey\tbeshak\tis\tmeiñ\tbadi\tnishāni\thai\t\ntumhāre\tliye\tagar\tImān\trakhte\tho"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "249",
+    "arabicText": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلْجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبْتَلِيكُم بِنَهَرٍۢ فَمَن شَرِبَ مِنْهُ فَلَيْسَ مِنِّى وَمَن لَّمْ يَطْعَمْهُ فَإِنَّهُۥ مِنِّىٓ إِلَّا مَنِ ٱغْتَرَفَ غُرْفَةًۢ بِيَدِهِۦ ۚ فَشَرِبُوا۟ مِنْهُ إِلَّا قَلِيلًۭا مِّنْهُمْ ۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ قَالُوا۟ لَا طَاقَةَ لَنَا ٱلْيَوْمَ بِجَالُوتَ وَجُنُودِهِۦ ۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَـٰقُوا۟ ٱللَّهِ كَم مِّن فِئَةٍۢ قَلِيلَةٍ غَلَبَتْ فِئَةًۭ كَثِيرَةًۢ بِإِذْنِ ٱللَّهِ ۗ وَٱللَّهُ مَعَ ٱلصَّـٰبِرِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": ". So\twhen\tTalut\tleft\tthe\tcity\talong\twith the\t\narmies,\the\tsaid,\t“Allah will\tsurely\ttest\tyou\t\nwith\ta\triver;\tso\twhoever\tdrinks\tits\twater\t\nis\tnot\tmine\t- and\twhoever\tdoes\tnot\tdrink\t\nis\t mine\t- except\t him\t who\t takes\t it\t in\t the\t\nhollow\t of\t his\t hand”;\t so\t they\t all\t drank\t it,\t\nexcept\t a\t few\t of\t them;\t thereafter\t when\t\nTalut\t and\t the\t believers\t with\t him\t had\t\ncrossed\t the\t river,\t they\t said,\t “We\t do\t not\t\nhave\tpower\tthis\tday\tto\tface\tJalut\t(Goliath)\t\nand\t his\t armies”;\t those\t who\t were\t certain\t\nof\tmeeting\tAllah said,\t“Many\ta\ttimes\thas\ta\t\nsmaller\t group\t overcome\t a\t bigger\t group\t\nby\tAllah’s\tcommand;\tand\tAllah is\twith\tthe\t\nsteadfast.”\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Phir\tjab\tTaloot\tlashkaroñ\tko\tlekar\tshaher\t\nse\t juda\t huwa\t bola\t beshak\t Allah\t tumheiñ\t\nek\t naher\t se\t āzmāne\t wāla\t hai\t to\t jo\t uska\t\npāni\t piye\t woh\t mera\t nahi\t aur\t jo\t na\t piye\t\nwoh\t mera\t hai\t magar\t woh\t jo\t ek\t chullu\t\napne\t hāth\t se\t lele\t to\t sab\t ne\t us\t se\t piya\t\nmagar\tthodoñ\tne\tphir\tjab\tTaloot\taur\tuske\t\nsāth\tke\tmuslaman\tnaher\tke\tpār\tgaye\tbole\t\nham\t meiñ\t āaj\t tāqat\t nahi\t jaloot\t aur\t uske\t\nlashkaroñ\t ki\t bole\t woh\t jinheiñ\t Allah\t se\t\nmilne\t ka\t yaqeen\t tha\t ke\t bārha\t kam\tjamāt\t\nghalib\t āayi\t hai\t ziyāda\t giroh\t par\t Allah\t ke\t\nhukm\tse\taur\tAllah\tsābiroñ\tke\tsāth\thai"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "250",
+    "arabicText": "وَلَمَّا بَرَزُوا۟ لِجَالُوتَ وَجُنُودِهِۦ قَالُوا۟ رَبَّنَآ أَفْرِغْ عَلَيْنَا صَبْرًۭا وَثَبِّتْ أَقْدَامَنَا وَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\t when\t they\t confronted\t Jalut\t and\t his\t\narmies\t they\t invoked,\t “Our\t Lord!\t Pour\t\n(bestow\t abundantly)\t on\t us\t patience\t\n(fortitude),\tand\t keep\t our\t feet\t steady,\tand\t\nhelp\tus\tagainst\tthe\tdisbelieving\tpeople.”\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Phir\t jab\t sāmne\t āaye\t jālot\t aur\t uske\t\nlashkaroñ\t ke\tarz\t ki\taey\tRab\thamāre\tham\t\npar\tsabr\tundel\tde\taur\thamāre\tpāoñ\t Jame\t\nrakh\taur\tkāfir\tlogoñ\tpar\thamāri\tmadad\tkar\t\n"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "251",
+    "arabicText": "فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍۢ لَّفَسَدَتِ ٱلْأَرْضُ وَلَـٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَـٰلَمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\t they\t routed\t them\t by\t the\t command\t of\t\nAllah;\tand\tDawud\t(David)\t slew\t Jalut,\tand\t\nAllah gave\thim\tthe\tkingdom\tand\twisdom,\t\nand\t taught\t him\t all\t whatever\t He\t willed;\t\nand\tif\tAllah does\tnot\tward\toff\tsome\tmen\tby\tothers,\tthe\tearth\twill\tbe\tdestroyed,\tbut\tAllah is\tMost\t\nMunificent\ttowards\tthe\tentire\tcreation\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "To\tunhoñ\tne\tunko\tbhagā\tdiya\tAllah\tke\thukm\tse\taur\tqatl\tkiya\tDawood ne\tJālot\tko\taur\tAllah\tne\t\nusey\tsaltanat\taur\thikmat\tatā\tfarmāyi\taur\tusey\tjo\tchāha\tsikhāya\taur\tagar\tAllah\tlogoñ\tmeiñ\tb'az\t\nse\tb'az\tdaf'a\tna\tkare\tto\tzaroor\tzameen\ttabāh\tho\tjāye\tmagar\tAllah\tsāre\tjahāñ\tpar\tfazl\tkarne\twāla\t\nhai\n"
+  },
+  {
+    "juz": {
+      "id": "2"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "252",
+    "arabicText": "تِلْكَ ءَايَـٰتُ ٱللَّهِ نَتْلُوهَا عَلَيْكَ بِٱلْحَقِّ ۚ وَإِنَّكَ لَمِنَ ٱلْمُرْسَلِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "These\tare\tthe\tverses\tof\tAllah,\twhich\tWe\trecite\tto\tyou\t(O\tdear\tProphet\tMuhammad - peace\tand\t\nblessings\tbe\tupon\thim)\twith\ttruth;\tand\tundoubtedly\tyou\tare\tone\tof\tthe\tNoble\tMessengers\t\t\t\t\t\t\t",
+    "romanUrduTranslationText": "Yeh\t Allah\t ki\t āyateiñ\t haiñ\t ke\t hum\t aey\tMehboob!\t Tum\t par\t theek\t theek\t pardhte\t haiñ\t aur\t tum\t\nbeshak\tRasooloñ\tmeiñ\tho\n"
+  }
+]

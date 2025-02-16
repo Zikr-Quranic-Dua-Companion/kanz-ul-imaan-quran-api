@@ -1,0 +1,41 @@
+[
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "1",
+    "arabicText": "الٓمٓ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Alif-Laam-Meem*",
+    "romanUrduTranslationText": "Alif-laam-meem"
+  },
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "2",
+    "arabicText": "ذَٰلِكَ ٱلْكِتَـٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًۭى لِّلْمُتَّقِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "That\texalted Book (The Qur’an), has no\t\nplace for doubt in it; a guidance for the\t\npious",
+    "romanUrduTranslationText": "Woh\t bulañd rutba Kitāb\t (Qur'ān), koi\t\nshak\tki jagah nhiñ ismeñ\thidāyat hai dar\t\nwaloñ ko"
+  },
+  {
+    "juz": {
+      "id": "1"
+    },
+    "surah": {
+      "id": "2"
+    },
+    "ayatNumber": "3",
+    "arabicText": "ٱلَّذِينَ يُؤْمِنُونَ بِٱلْغَيْبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقْنَـٰهُمْ يُنفِقُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Those who believe without seeing\t (the\t\nhidden), and keep the (obligatory)\t\nprayer established, and spend in Our\t\ncause\t from\t what\t We\t have\t bestowed\t\nupon\tthem.",
+    "romanUrduTranslationText": "Woh\tjo be-dekhe Īmān lāyeñ, aur Namāz\t\nQāyim rakheñ, aur Hamāri di hui Rozī me\t\nse Hamāri rāh me uthaieñ"
+  }
+]

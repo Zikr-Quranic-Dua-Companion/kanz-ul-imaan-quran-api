@@ -1,0 +1,691 @@
+[
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "11",
+    "arabicText": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًۭا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَـٰذِبُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Did\tyou\tnot\tsee\tthe\thypocrites,\tthat\tthey\t\nsay\tto\ttheir\tdisbelieving\tbrothers\tamong\t\nthe\tPeople\tgiven\tthe\tBook(s),\t“If\tyou\tare\t\nexpelled,\tthen\twe\twill\tdefinitely\tgo\tout\t\nwith\tyou,\tand\twe\twill\tnot\tlisten\tto\tanyone\t\nin\tyour\tmatters,\tand\tif\tyou\tare\tfought\t\nagainst\twe\twill\tsurely\thelp\tyou”;\tand\tAllah\t\ntestifies\tthat\tthey\tare\tindeed\tliars.\t\t",
+    "romanUrduTranslationText": "Kya\ttum\tne\tmunāfiqoñ\tko\tna\tdekha\tke\t\napne\tbhaiyoñ\tkāfir\tkitābiyoñ\tse\tkehte\t\nhaiñ\tke\tagar\ttum\tnikāle\tgaye\tto\tzaroor\t\nhum\ttumhāre\tsāth\tnikal\tjāyeñ\tge\taur\t\nhargiz\ttumhāre\tbāre\tmeiñ\tkabhi\tkisi\tki\tna\t\nmāneñ\tge\taur\ttum\tse\tladayi\thuyi\tto\thum\t\nzaroor\ttumhāri\tmadad\tkareñge\taur\tAllah\t\ngawah\thai\tke\twoh\tjhoote\thaiñ.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "12",
+    "arabicText": "لَئِنْ أُخْرِجُوا۟ لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا۟ لَا يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ ٱلْأَدْبَـٰرَ ثُمَّ لَا يُنصَرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "If\tthey\tare\texpelled,\tthe\thypocrites\twill\t\nnot\tgo\tout\twith\tthem;\tand\tif\tthey\tare\t\nfought\tagainst\tthey\twill\tnot\thelp\tthem;\t\nand\teven\tif\tthey\twere\tto\thelp\tthem,\tthey\t\nwould\tturn\ttheir\tbacks\tand\tflee;\tand\tthen\t\nthey\twill\tnot\tbe\thelped.\t\t\t",
+    "romanUrduTranslationText": "Agar\twoh\tnikāle\tgaye\tto\tyeh\tunke\tsāth\tna\t\nnikleñ\tge\taur\tun\tse\tladayi\thuyi\tto\tyeh\tunki\t\nmadad\tna\tkareñge\taur\tagar\tunki\tmadad\tki\t\nbhi\tto\tzaroor\tpeeth\tpher\tkar\tbhāgeñ\tge\t\nphir\tmadad\tna\tpāayeñ\t\tge."
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "13",
+    "arabicText": "لَأَنتُمْ أَشَدُّ رَهْبَةًۭ فِى صُدُورِهِم مِّنَ ٱللَّهِ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَفْقَهُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Indeed\tin\ttheir\thearts\tis\ta\tgreater\tfear\tof\t\nyou\tthan\tthat\tof\tAllah;\tthis\tis\tbecause\tthey\t\nare\ta\tpeople\twho\tdo\tnot\tunderstand.\t\t\t",
+    "romanUrduTranslationText": "Be-shak\t\tunke\tdiloñ\t\tmeiñ\tAllah\tse\tziyada\t\ntumhāra\tdar\thai\tyeh\tis\tliye\tke\twoh\tna\t\nsamajh\tlog\thaiñ.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "14",
+    "arabicText": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًۭى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌۭ ۚ تَحْسَبُهُمْ جَمِيعًۭا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌۭ لَّا يَعْقِلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "They\twill\tnot\tfight\tyou\teven\tif\tthey\tall\t\ncome\ttogether,\texcept\tin\tbarricaded\tcities\t\nor\tfrom\tbehind\twalls;\tthey\tare\tsevere\t\nfighters\tamong\tthemselves;\tyou\twill\t\nassume\tthem\tto\tbe\tone,\twhereas\ttheir\t\nhearts\tare\tdivided;\tthis\tis\tbecause\tthey\tare\ta\tpeople\twho\tdo\tnot\thave\tany\tsense.\t\t",
+    "romanUrduTranslationText": "Yeh\tsab\tmil\tkar\tbhi\ttum\tse\tna\tladeñ\tge\t\nmagar\tqila\tband\tshehroñ\tmeiñ\tya\tdhusoñ\t\n(Diwāroñ)\tke\tpeechhe\tāapas\tmeiñ\tunki\tāañch\tsakht\thai\ttum\tunheiñ\tek\tjat-tha\t(Jamā’at)\t\nsamjhoge\taur\tunke\tdil\talag\talag\thaiñ\tyeh\tis\tliye\tke\twoh\tbe-‘aql\tlog\thaiñ."
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "15",
+    "arabicText": "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًۭا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": " Like\tthe\texample\tof\tthose\twho\twere\tbefore\tthem\tnot\tlong\tago\t-\tthey\ttasted\tthe\tevil\tresult\tof\t\ntheir\tdeeds;\tand\tfor\tthem\tis\ta\tpainful\tpunishment.\t\t",
+    "romanUrduTranslationText": "Unki\tsi\tkahawat\tjo\tabhi\tqareeb\tzamāne\tmeiñ\tun\tse\tpehle\tthey\tunhoñ\tne\tapne\tkām\tka\twabāl\t\nchakhā\taur\tunke\tliye\tdard-nāk\t‘aƶāb\thai.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "16",
+    "arabicText": "كَمَثَلِ ٱلشَّيْطَـٰنِ إِذْ قَالَ لِلْإِنسَـٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌۭ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَـٰلَمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "The\texample\tof\tthe\tdevil\t-\twhen\the\tsaid\tto\tman\t“Disbelieve”;\tso\twhen\the\thas\trejected\tfaith,\the\t\nsays,\t“I\tam\tunconcerned\twith\tyou\t-\tindeed\tI\tfear\tAllah,\tthe\tLord\tof\tThe\tCreation.”\t",
+    "romanUrduTranslationText": " Shaitān\tki\tkahawat\tjab\tus\tne\tāadmi\tse\tkahā\tkufr\tkar\tphir\tjab\tus\tne\tkufr\tkar\tliya\tbola\tmaiñ\ttujh\t\nse\talag\thooñ\tmaiñ\tAllah\tse\tdarta\thooñ\tjo\tsāre\tjahāñ\tka\tRab."
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "17",
+    "arabicText": "فَكَانَ عَـٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَـٰلِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّـٰلِمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "So\tthe\tfate\tof\tthem\tboth\tis\tthat\tthey\tare\t\nboth\tin\tthe\tfire,\tto\tremain\tin\tit\tforever;\t\nand\tthis\tis\tthe\tproper\tpunishment\tfor\tthe\t\nunjust.\t",
+    "romanUrduTranslationText": "To\tun\tdonoñ\tka\tanjām\tyeh\thuwa\tke\twoh\t\ndonoñ\tāag\tmeiñ\thaiñ\thamesha\tus\tmeiñ\t\nraheñ\taur\tzālimoñ\tki\tyehi\tsaza\thai\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "18",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌۭ مَّا قَدَّمَتْ لِغَدٍۢ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "O\tPeople\twho\tBelieve!\tFear\tAllah,\tand\t\nevery\tsoul\tmust\tsee\twhat\tit\thas\tsent\t\nahead\tfor\ttomorrow;\tand\tfear\tAllah;\t\nindeed\tAllah\tis\tAware\tof\tyour\tdeeds.\t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tAllah\tse\tdaro\taur\thar\tjān\t\ndekhe\tke\tkal\tke\tliye\tkya\tāage\tbheja\taur\t\nAllah\tse\tdaro\tbe-shak\tAllah\tko\ttumhāre\t\nkāmoñ\tki\tkhabar\thai.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "19",
+    "arabicText": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tdo\tnot\tbe\tlike\tthose\twho\tforgot\tAllah\t–\tHe\ttherefore\tput\tthem\tinto\thardship\t\nmaking\tthem\tforget\tthemselves;\tit\tis\tthey\t\nwho\tare\tthe\tsinners.\t\t",
+    "romanUrduTranslationText": "Aur\tun\tjaise\tna\tho\tjo\tAllah\tko\tbhool\tbaithe\t\nto\tAllah\tne\tunheiñ\tbalā\tmeiñ\tdāla\tke\tapni\t\njāneiñ\tyād\tna\trahiñ\twohi\tfāsiq\thaiñ.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "20",
+    "arabicText": "لَا يَسْتَوِىٓ أَصْحَـٰبُ ٱلنَّارِ وَأَصْحَـٰبُ ٱلْجَنَّةِ ۚ أَصْحَـٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "The\tPeople\tof\thell\tand\tthe\tPeople\tof\t\nParadise\tare\tnot\tequal;\tit\tis\tonly\tthe\t\nPeople\tof\tParadise\twho\thave\tsucceeded.\t",
+    "romanUrduTranslationText": "Dozakh\twāle\taur\tJannat\twāle\tbarābar\tnahi\t\nJannat\twāle\thi\tmurād\tko\tpahuñche.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "21",
+    "arabicText": "لَوْ أَنزَلْنَا هَـٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍۢ لَّرَأَيْتَهُۥ خَـٰشِعًۭا مُّتَصَدِّعًۭا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Had\tWe\tsent\tdown\tthis\tQur’an\tupon\ta\t\nmountain,\tyou\twould\thave\tthen\tsurely\t\nseen\tit\tbowed\tdown,\tblown\tto\tbits\tby\tthe\t\nfear\tof\tAllah;\tand\tWe\tillustrate\tsuch\t\nexamples\tfor\tpeople,\tfor\tthem\tto\tponder.\t\t",
+    "romanUrduTranslationText": "Agar\thum\tyeh\tQur’ān\tkisi\tpahād\tpar\t\nutārte\tto\tzaroor\ttu\tusey\tdekhta\tjhuka\t\nhuwa\tpāsh\tpāsh\thota\tAllah\tke\tkhauf\tse\t\naur\tyeh\tmisāleñ\tlogoñ\tke\tliye\thum\tbayān\t\nfarmāte\thaiñ\tke\twoh\tsocheñ.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "22",
+    "arabicText": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۖ هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ ٢٢",
+    "urduTranslationText": "",
+    "englishTranslationText": "It\tis\tAllah,\texcept\tWhom\tthere\tis\tno\tGod;\t\nthe\tKnowing\tof\tall\t–\tthe\thidden\tand\tthe\t\nevident;\tHe\tonly\tis\tthe\tMost\tGracious,\tthe\t\nMost\tMerciful.\t\t",
+    "romanUrduTranslationText": "Wohi\tAllah\thai\tjiske\tsiwa\tkoi\tma'bood\t\nnahi\thar\tnihāñ-wa-‘ayāñ\t(Chupi\twa\tzahir)\t\nka\tjānne\twāla\twohi\thai\tbadā\tmaherbān\t\nrehmat\twāla.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "23",
+    "arabicText": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَـٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "It\tis\tAllah,\texcept\tWhom\tthere\tis\tno\tGod;\t\nthe\tKing,\tthe\tPure,\tthe\tGiver\tof\tPeace,\tthe\tBestower\tof\tSafety,\tthe\tProtector,\tthe\tMost\t\nHonourable,\tthe\tCompeller,\tthe\tProud;\tPurity\tis\tto\tAllah\tfrom\tall\twhat\tthey\tascribe\tas\tpartners\t\n(to\tHim)!\t",
+    "romanUrduTranslationText": "Wohi\thai\tAllah\tjiske\tsiwa\tkoi\tma'bood\t\nnahi\tbādshāh\tnihayat\tpāk\tsalāmati\tdene\twāla\tamān\tbakhshne\twāla\thifāzat\tfarmāne\twāla\t‘izzat\t\nwāla\tazmat\twāla\ttakabbur\twāla\tAllah\tko\tpāki\thai\tunke\tshirk\tse."
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "59"
+    },
+    "ayatNumber": "24",
+    "arabicText": "هُوَ ٱللَّهُ ٱلْخَـٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ ۖ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "urduTranslationText": "",
+    "englishTranslationText": " It\tis\tAllah\tonly,\tWho\tis\tthe\tCreator,\tthe\tInitiator,\tthe\tDesigner\tof\tall\t–\tHis\tonly\tare\tall\tthe\tgood\t\nnames;\tall\twhatever\tis\tin\tthe\theavens\tand\tin\tthe\tearth\tproclaims\tHis\tPurity;\tand\tHe\tonly\tis\tthe\t\nMost\tHonourable,\tthe\tWise.\t",
+    "romanUrduTranslationText": "Wohi\thai\tAllah\tbanāne\twāla\tpaida\tkarne\twāla\thar\tek\tko\tsoorat\tdene\twāla\tusi\tke\thaiñ\tsab\tachche\t\nnām\tuski\tpāki\tbolta\thai\tjo\tkuch\tāasmānoñ\taur\tzameen\tmeiñ\thai\taur\tWohi\t‘Izzat\twa\tHikmat\twāla\t\nhai.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "1",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ ٱلْحَقِّ يُخْرِجُونَ ٱلرَّسُولَ وَإِيَّاكُمْ ۙ أَن تُؤْمِنُوا۟ بِٱللَّهِ رَبِّكُمْ إِن كُنتُمْ خَرَجْتُمْ جِهَـٰدًۭا فِى سَبِيلِى وَٱبْتِغَآءَ مَرْضَاتِى ۚ تُسِرُّونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَأَنَا۠ أَعْلَمُ بِمَآ أَخْفَيْتُمْ وَمَآ أَعْلَنتُمْ ۚ وَمَن يَفْعَلْهُ مِنكُمْ فَقَدْ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "O\tPeople\twho\tBelieve!\tDo\tnot\tbefriend\tMy\t\nand\tyour\tenemy\t-\tyou\treveal\tsecrets\tto\t\nthem\tout\tof\tfriendship\twhereas\tthey\t\ndisbelieve\tin\tthe\ttruth\twhich\thas\tcome\tto\t\nyou!\tIt\tis\tthey\twho\tremove\tthe\tNoble\t\nMessenger\tand\tyou\tfrom\tyour\thomes,\t\nupon\tyour\tbelieving\tin\tAllah,\tyour\tLord;\tif\t\nyou\thave\tcome\tout\tto\tfight\tfor\tMy\tcause,\t\nand\tto\tgain\tMy\tpleasure,\tthen\tdo\tnot\t\nbefriend\tthem;\tyou\tsend\tthem\tsecret\t\nmessages\tof\tfriendship\t–\tand\tI\twell\tknow\t\nall\twhat\tyou\thide\tand\tall\twhat\tyou\t\ndisclose;\tand\twhoever\tamong\tyou\tdoes\tit,\t\nhas\tindeed\tstrayed\taway\tfrom\tthe\tright\t\npath.\t\t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tMere\taur\tapne\tdushmanoñ\t\nko\tdost\tna\tbanāo\ttum\tunheiñ\tkhabreiñ\t\npahuñchāte\tho\tdosti\tse\thalāñke\twoh\t\nmunkir\thaiñ\tus\thaq\tke\tjo\ttumhāre\tpās\tāaya\t\nghar\tse\tjuda\tkarte\thaiñ\tRasool\tko\taur\t\ntumheiñ\t\tis\tpar\tke\ttum\tapne\tRab\tAllah\tpar\t\nimān\tlāye\tagar\ttum\tnikle\tho\tmeri\trāh\tmeiñ\t\njihād\tkarne\taur\tmeri\traza\tchāhne\tko\tto\t\nunse\tdosti\tna\tkaro\ttum\tunheiñ\tkhufya\t\npayām\tmahabbat\tka\tbhejte\tho\taur\tmaiñ\t\nkhoob\tjānta\thooñ\tjo\ttum\tchhupāo\taur\tjo\t\nzāhir\tkaro\taur\ttum\tmeiñ\tjo\taisa\tkare\twoh\t\nbe-shak\t\tseedhi\trāh\tse\tbehka.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "2",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوا۟ عَدُوِّى وَعَدُوَّكُمْ أَوْلِيَآءَ تُلْقُونَ إِلَيْهِم بِٱلْمَوَدَّةِ وَقَدْ كَفَرُوا۟ بِمَا جَآءَكُم مِّنَ إِن يَثْقَفُوكُمْ يَكُونُوا۟ لَكُمْ أَعْدَآءًۭ وَيَبْسُطُوٓا۟ إِلَيْكُمْ أَيْدِيَهُمْ وَأَلْسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّوا۟ لَوْ تَكْفُرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "If\tthey\tgain\tdominance\tover\tyou\tthey\twill\t\nbe\tyour\tenemies,\tand\twill\textend\ttheir\t\nhands\tand\ttheir\ttongues\ttowards\tyou\twith\t\nevil,\tand\tthey\twish\tthat\tin\tsome\tway\tyou\t\nturn\tdisbelievers.\t\t",
+    "romanUrduTranslationText": "Agar\ttumheiñ\tpāayeñ\tto\ttumhāre\tdushman\t\nhonge\taur\ttumhāri\ttaraf\tapne\thāth\taur\t\napni\tzubāneiñ\tburāyi\tke\tsāth\tdarāz\t\nkareñge\taur\tunki\ttamanna\thai\tke\tkisi\ttarah\t\ntum\tkāfir\tho\tjāo.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "3",
+    "arabicText": "لَن تَنفَعَكُمْ أَرْحَامُكُمْ وَلَآ أَوْلَـٰدُكُمْ ۚ يَوْمَ ٱلْقِيَـٰمَةِ يَفْصِلُ بَيْنَكُمْ ۚ وَٱللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Neither\tyour\trelations\tnor\tyour\toffspring\t\nwill\tin\tthe\tleast\tbenefit\tyou,\ton\tthe\tDay\tof\t\nResurrection;\tHe\twill\tseparate\tyou\tfrom\t\nthem;\tand\tAllah\tis\tseeing\tyour\tdeeds.\t\t\t",
+    "romanUrduTranslationText": "Hargiz\tkām\tna\tāayeñ\tge\ttumheiñ\t\ttumhāre\t\nrishte\taur\tna\ttumhāri\taulād\tQiyamat\tke\t\ndin\ttumheiñ\tunse\talag\tkar\tdega\taur\tAllah\t\ntumhāre\tkām\tdekh\traha\thai.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "4",
+    "arabicText": "قَدْ كَانَتْ لَكُمْ أُسْوَةٌ حَسَنَةٌۭ فِىٓ إِبْرَٰهِيمَ وَٱلَّذِينَ مَعَهُۥٓ إِذْ قَالُوا۟ لِقَوْمِهِمْ إِنَّا بُرَءَٰٓؤُا۟ مِنكُمْ وَمِمَّا تَعْبُدُونَ مِن دُونِ ٱللَّهِ كَفَرْنَا بِكُمْ وَبَدَا بَيْنَنَا وَبَيْنَكُمُ ٱلْعَدَٰوَةُ وَٱلْبَغْضَآءُ أَبَدًا حَتَّىٰ تُؤْمِنُوا۟ بِٱللَّهِ وَحْدَهُۥٓ إِلَّا قَوْلَ إِبْرَٰهِيمَ لِأَبِيهِ لَأَسْتَغْفِرَنَّ لَكَ وَمَآ أَمْلِكُ لَكَ مِنَ ٱللَّهِ مِن شَىْءٍۢ ۖ رَّبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ ٱلْمَصِيرُ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Indeed\tin\tIbrahim,\tand\tthose\talong\twith\thim,\t\nlay\ta\tgood\texample\tfor\tyou\tfollow\t-\twhen\tthey\t\nsaid\tto\ttheir\tpeople,\t“Indeed\twe\tare\tunconcerned\twith\tyou\tand\tall\twhat\tyou\tworship\tbesides\tAllah;\twe\t\nreject\tyou,\tand\tbetween\tus\tand\tyou\thas\tsurfaced\tenmity\tand\thatred\tfor\tever\tuntil\tyou\taccept\tfaith\tin\tthe\t\nOne\tAllah”\t–\texcept\tthe\tsaying\tof\tIbrahim\tto\this\tfather,\t“I\twill\tsurely\tseek\tforgiveness\tfor\tyou,\tand\tI\tdo\tnot\t\npossess\tany\tpower\tto\tbenefit\tyou\tagainst\tAllah”;\t“O\tour\tLord!\tWe\thave\trelied\tonly\tupon\tYou,\tand\ttowards\t\nYou\tonly\twe\thave\tinclined\tand\tonly\ttowards\tYou\tis\tthe\treturn”.\t\t\t",
+    "romanUrduTranslationText": "Be-shak\ttumhāre\tliye\tachchhi\tpairwi\tthi\t\nIbraheem\taur\tuske\tsāth\twaloñ\tmeiñ\tjab\t\nunhoñ\tne\tapni\tqaum\tse\tkahā\tbe-shak\t\thum\t\nbezār\thaiñ\ttum\tse\taur\tunse\tjinheiñ\tAllah\t\nke\tsiwa\tpoojte\tho\thum\ttumhāre\tmunkir\t\nhuwe\taur\thum\tmeiñ\taur\ttum\tmeiñ\tdushmani\taur\t‘adawat\tzāhir\tho\tgayi\thamesha\tke\tliye\tjab\ttak\t\ntum\tek\tAllah\tpar\timān\tna\tlāo\tmagar\tIbraheem\tka\tapne\tbāp\tse\tkehna\tke\tmaiñ\tzaroor\tteri\t\nmaghfirat\tchāhoñ\tga\taur\tmaiñ\tAllah\tke\tsāmne\ttere\tkisi\tnafa'\tka\tmālik\tnahi\taey\thamāre\tRab\tHum\t\nne\ttujhi\tpar\tbharosa\tkiya\taur\tteri\thi\ttaraf\truju’\tlāye\taur\tteri\thi\ttaraf\tphirna\thai.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "5",
+    "arabicText": "رَبَّنَا لَا تَجْعَلْنَا فِتْنَةًۭ لِّلَّذِينَ كَفَرُوا۟ وَٱغْفِرْ لَنَا رَبَّنَآ ۖ إِنَّكَ أَنتَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "urduTranslationText": "",
+    "englishTranslationText": "“O\tour\tLord!\tDo\tnot\tput\tus\tinto\tthe\ttrial\tof\tthe\tdisbelievers,\tand\tforgive\tus,\tO\tour\tLord!\tIndeed\t\nYou\tonly\tare\tthe\tMost\tHonourable,\tthe\tWise.”\t\t\t\t",
+    "romanUrduTranslationText": "Aey\thamāre\tRab\tHameiñ\tkāfiroñ\tki\tāazmāish\tmeiñ\tna\tdāl\taur\thameiñ\tbakhsh\tde\taey\thamāre\t\nRab\tBe-shak\ttu\thi\t‘Izzat-wa-Hikmat\twāla\thai\t\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "6",
+    "arabicText": "لَقَدْ كَانَ لَكُمْ فِيهِمْ أُسْوَةٌ حَسَنَةٌۭ لِّمَن كَانَ يَرْجُوا۟ ٱللَّهَ وَٱلْيَوْمَ ٱلْـَٔاخِرَ ۚ وَمَن يَتَوَلَّ فَإِنَّ ٱللَّهَ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Indeed\tin\tthem\tlay\ta\tgood\texample\tfor\tyou\t\nto\tfollow\t–\tfor\tone\twho\tlooks\tforward\tto\t\n(meeting)\tAllah\tand\tthe\tLast\tDay;\tand\t\nwhoever\tturns\taway\t–\tthen\t(know\tthat)\t\nindeed\tAllah\tonly\tis\tthe\tIndependent,\tthe\t\nMost\tPraiseworthy.\t\t\t",
+    "romanUrduTranslationText": "Be-shak\ttumhāre\tliye\tun\tmeiñ\tachchhi\t\npairwi\tthi\tusey\tjo\tAllah\taur\tpichhle\tdin\tka\t\nummeed-wār\tho\taur\tjo\tmoñh\tphere\tto\tbe\nshak\tAllah\thi\tbe-niyāz\thai\tsab\tkhoobiyoñ\t\nsarāha\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "7",
+    "arabicText": "۞ عَسَى ٱللَّهُ أَن يَجْعَلَ بَيْنَكُمْ وَبَيْنَ ٱلَّذِينَ عَادَيْتُم مِّنْهُم مَّوَدَّةًۭ ۚ وَٱللَّهُ قَدِيرٌۭ ۚ وَٱللَّهُ غَفُورٌۭ رَّحِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "It\tis\tlikely\tthat\tAllah\tmay\tcreate\tfriendship\t\nbetween\tyou\tand\tthose\tamong\tthem\twho\t\nare\tnow\tyour\tenemies;\tand\tAllah\tis\tAll\t\nAble;\tand\tAllah\tis\tOft\tForgiving,\tMost\t\nMerciful.\t\t",
+    "romanUrduTranslationText": " Qareeb\thai\tke\tAllah\ttum\tmeiñ\taur\tun\tmeiñ\t\njo\tun\tmeiñ\tse\ttumhāre\tdushman\thaiñ\t\ndosti\tkarde\taur\tAllah\tqādir\thai\taur\tbakhsh\t\nne\twāla\tmaherbān\thai\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "8",
+    "arabicText": "لَّا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ لَمْ يُقَـٰتِلُوكُمْ فِى ٱلدِّينِ وَلَمْ يُخْرِجُوكُم مِّن دِيَـٰرِكُمْ أَن تَبَرُّوهُمْ وَتُقْسِطُوٓا۟ إِلَيْهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُقْسِطِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Allah\tdoes\tnot\tforbid\tyou\tfrom\tthose\twho\t\ndid\tnot\tfight\tagainst\tyou\tbecause\tof\t\nreligion\tand\tdid\tnot\tdrive\tyou\tout\tfrom\t\nyour\thomes,\tthat\tyou\tshould\tbe\tkind\t\ntowards\tthem\tand\tdeal\twith\tthem\tfairly;\t\nindeed\tthe\tequitable\tare\tthe\tbeloved\tof\t\nAllah.\t\t\t",
+    "romanUrduTranslationText": "Allah\ttumheiñ\tunse\tman’a\tnahi\tkarta\tjo\t\ntum\tse\tdeen\tmeiñ\tna\tlade\taur\ttumheiñ\t\t\ntumhāre\tgharoñ\tse\tna\tnikāla\tke\tunke\tsāth\t\nehsān\tkaro\taur\tunse\tinsāf\t\tka\tbartāo\tbarto\t\nbe-shak\tinsāf\twāle\tAllah\tko\tMehboob\t\nhaiñ."
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "9",
+    "arabicText": "إِنَّمَا يَنْهَىٰكُمُ ٱللَّهُ عَنِ ٱلَّذِينَ قَـٰتَلُوكُمْ فِى ٱلدِّينِ وَأَخْرَجُوكُم مِّن دِيَـٰرِكُمْ وَظَـٰهَرُوا۟ عَلَىٰٓ إِخْرَاجِكُمْ أَن تَوَلَّوْهُمْ ۚ وَمَن يَتَوَلَّهُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Allah\tforbids\tyou\tonly\tfrom\tthose\twho\t\nfought\tagainst\tyou\tbecause\tof\treligion\tor\t\ndrove\tyou\tout\tfrom\tyour\thomes\tor\thelped\t\nothers\tto\tdrive\tyou\tout,\tthat\tyou\tshould\t\nbefriend\tthem;\tand\twhoever\tbefriends\t\nthem\t–\tit\tis\tthey\twho\tare\tthe\tunjust.\t\t\t",
+    "romanUrduTranslationText": "Allah\ttumheiñ\t\tunhiñ\tse\tman’a\tkarta\thai\tjo\t\ntum\tse\tdeen\tmeiñ\tlade\tya\ttumheiñ\t\t\ntumhāre\tgharoñ\tse\tnikāla\tya\ttumhāre\t\nnikālne\tpar\tmadad\tki\tke\tunse\tdosti\tkaro\t\naur\tjo\tunse\tdosti\tkare\tto\twohi\tsitam-gār\t\nhaiñ.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "10",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا جَآءَكُمُ ٱلْمُؤْمِنَـٰتُ مُهَـٰجِرَٰتٍۢ فَٱمْتَحِنُوهُنَّ ۖ ٱللَّهُ أَعْلَمُ بِإِيمَـٰنِهِنَّ ۖ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَـٰتٍۢ فَلَا تَرْجِعُوهُنَّ إِلَى ٱلْكُفَّارِ ۖ لَا هُنَّ حِلٌّۭ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ ۖ وَءَاتُوهُم مَّآ أَنفَقُوا۟ ۚ وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَآ ءَاتَيْتُمُوهُنَّ أُجُورَهُنَّ ۚ وَلَا تُمْسِكُوا۟ بِعِصَمِ ٱلْكَوَافِرِ وَسْـَٔلُوا۟ مَآ أَنفَقْتُمْ وَلْيَسْـَٔلُوا۟ مَآ أَنفَقُوا۟ ۚ ذَٰلِكُمْ حُكْمُ ٱللَّهِ ۖ يَحْكُمُ بَيْنَكُمْ ۚ وَٱللَّهُ عَلِيمٌ حَكِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "O\tPeople\twho\tBelieve!\tWhen\tMuslim\t\nwomen\tleave\tthe\tlands\tof\tdisbelief\tand\t\nmigrate\ttowards\tyou,\texamine\tthem;\tAllah\t\nknows\tmore\tabout\ttheir\tfaith;\tso\tif\tyou\t\njudge\tthe\twomen\tto\tbe\tbelievers,\tdo\tnot\t\nsend\tthem\tback\tto\tthe\tdisbelievers;\t\nneither\tare\tthey\tlawful\tfor\tthe\t\ndisbelievers,\tnor\tare\tthe\tdisbelievers\tlawful\tfor\tthem;\tand\tgive\ttheir\tdisbelieving\thusbands\t\nwhat\tthey\thad\tspent;\tand\tthere\tis\tno\tsin\tupon\tyou\tto\tmarry\tthem\tif\tyou\tgive\tthem\ttheir\tbridal\t\nmoney;\tand\tdo\tnot\tcontinue\tthe\tmarriage\twith\tdisbelieving\twomen\t-\tand\task\tfor\twhat\tyou\thad\t\nspent,\tand\tthe\tdisbelievers\tmay\task\tfor\twhat\tthey\thad\tspent;\tthis\tis\tAllah’s\tcommand;\tHe\tjudges\t\nbetween\tyou;\tand\tAllah\tis\tAll\tKnowing,\tWise.\t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tJab\ttumhāre\tpās\t\nMusalman\taurteiñ\tkufristān\tse\tapne\tghar\t\nchord\tkar\tāayeñ\tto\tunka\timtehān\tkar\tlo\t\nAllah\tunke\tImān\tka\thāl\tbehtar\tjānta\thai\t\nphir\tagar\twoh\ttumheiñ\tImān\twāliyañ\t\nm’aloom\thoñ\tto\tunheiñ\tkāfiroñ\tko\twāpas\t\nna\tdo\tna\tyeh\tunheiñ\thalāl\tna\twoh\tinheiñ\t\nhalāl\taur\tunke\tkāfir\tshauharoñ\tko\tdedo\tjo\t\nunka\tkharch\thuwa\taur\ttum\tpar\tkuch\t\ngunah\tnahi\tke\tunse\tnikah\tkarlo\tjab\tunke\t\nmaher\tunheiñ\tdo\taur\tkāfirniyoñ\tke\tnikah\tpar\tjame\tna\traho\taur\tmāñg\tlo\tjo\ttumhāra\tkharch\t\nhuwa\taur\tkāfir\tmāñg\tleiñ\tjo\tunhoñ\tne\tkharch\tkiya\tyeh\tAllah\tka\tḥukm\t\thai\twoh\ttum\tmeiñ\tfaisla\t\nfarmāta\thai\taur\tAllah\tilm-o-hikmat\twāla\thai.\t\t\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "11",
+    "arabicText": "وَإِن فَاتَكُمْ شَىْءٌۭ مِّنْ أَزْوَٰجِكُمْ إِلَى ٱلْكُفَّارِ فَعَاقَبْتُمْ فَـَٔاتُوا۟ ٱلَّذِينَ ذَهَبَتْ أَزْوَٰجُهُم مِّثْلَ مَآ أَنفَقُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِىٓ أَنتُم بِهِۦ مُؤْمِنُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": " And\tif\tsome\twomen\tgo\taway\tfrom\tthe\tMuslims\tto\tthe\tdisbelievers\t-\tthen\twhen\tyou\tpunish\tthe\t\ndisbelievers,\tgive\tfrom\tthe\twar\tbooty\tto\tthe\tMuslims\twho\tlost\ttheir\twives\tthe\tamount\tthey\thad\t\nspent;\tand\tfear\tAllah\tin\tWhom\tyou\tbelieve.\t",
+    "romanUrduTranslationText": "Aur\tagar\tMusalmanoñ\tke\thāth\tse\tunki\tkuch\taurteiñ\tkāfiroñ\tki\ttaraf\tnikal\tjāyeñ\tphir\ttum\tkāfiroñ\t\t\nko\tsazā\tdo\tto\tjinki\taurteiñ\tjāti\trahi\ttheiñ\tghanimat\tmeiñ\tse\tunheiñ\tutna\tdedo\tjo\tunka\tkharch\t\nhuwa\ttha\taur\tAllah\tse\tdaro\tjis\tpar\ttumheiñ\tImān\thai.\t\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "12",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ إِذَا جَآءَكَ ٱلْمُؤْمِنَـٰتُ يُبَايِعْنَكَ عَلَىٰٓ أَن لَّا يُشْرِكْنَ بِٱللَّهِ شَيْـًۭٔا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَـٰدَهُنَّ وَلَا يَأْتِينَ بِبُهْتَـٰنٍۢ يَفْتَرِينَهُۥ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِى مَعْرُوفٍۢ ۙ فَبَايِعْهُنَّ وَٱسْتَغْفِرْ لَهُنَّ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌۭ رَّحِيمٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "O\tdear\tProphet\t(Muhammad\t–\tpeace\tand\t\nblessings\tbe\tupon\thim)!\tIf\tMuslim\twomen\t\ncome\thumbly\tto\tyou\tto\ttake\toath\tof\t\nallegiance\tthat\tthey\twill\tneither\tascribe\t\nany\tpartner\tto\tAllah,\tnor\tsteal,\tnor\t\ncommit\tadultery,\tnor\tkill\ttheir\tchildren,\t\nnor\tbring\tthe\tlie\tthat\tthey\tcarry\tbetween\t\ntheir\thands\tand\tfeet,\tnor\tdisobey\tyou\tin\t\nany\trightful\tmatter\t-\tthen\taccept\ttheir\t\nallegiance\tand\tseek\tforgiveness\tfrom\t\nAllah\tfor\tthem;\tindeed\tAllah\tis\tOft\t\nForgiving,\tMost\tMerciful.\t",
+    "romanUrduTranslationText": "Aey\tNabi\tJab\ttumhāre\thuzoor\tMusalman\t\naurteiñ\thāzir\thoñ\tis\tpar\tbai'at\tkarne\tko\tke\t\nAllah\tka\tshareek\tkuchh\tna\tthehrayeñ\tgi\t\naur\tna\tchori\tkareñgi\taur\tna\tbad-kāri\taur\t\nna\tapni\taulād\tko\tqatl\tkareñgi\taur\tna\twoh\t\nbohtān\tlāayeñ\t\tgi\tjise\tapne\thāthoñ\taur\t\npāoñ\tke\tdarmiyān\tyāni\tmauz-e-wiladat\t\nmeiñ\tuthayeñ\taur\tkisi\tnek\tbāt\tmeiñ\t\ntumhāri\tna-farmāni\tna\tkareñgi\tto\tunse\t\nbai'at\tlo\taur\tAllah\tse\tunki\tmaghfirat\tchāho\t\nbe-shak\tAllah\tbakhshne\twāla\tmaherbān\t\nhai.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "60"
+    },
+    "ayatNumber": "13",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَوَلَّوْا۟ قَوْمًا غَضِبَ ٱللَّهُ عَلَيْهِمْ قَدْ يَئِسُوا۟ مِنَ ٱلْـَٔاخِرَةِ كَمَا يَئِسَ ٱلْكُفَّارُ مِنْ أَصْحَـٰبِ ٱلْقُبُورِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "O\tPeople\twho\tBelieve!\tDo\tnot\tbefriend\tthe\t\npeople\tupon\twhom\tis\tAllah’s\twrath\t–\tthey\t\nhave\tlost\thope\tin\tthe\tHereafter\tthe\tway\t\nthe\tdisbelievers\thave\tlost\thope\tin\tthe\t\npeople\tof\tthe\tgraves.\t\t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tUn\tlogoñ\tse\tdosti\tna\tkaro\t\njin\tpar\tAllah\tka\tghazab\thai\twoh\tĀakhirat\t\nse\tāas\ttod\tbaithe\thaiñ\tjaise\tkāfir\tāas\ttod\t\nbaithe\tqabr\twaloñ\t\tse.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "1",
+    "arabicText": "سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "urduTranslationText": "",
+    "englishTranslationText": "All\twhatever\tis\tin\tthe\theavens\tand\tall\t\nwhatever\tis\tin\tthe\tearth\tproclaims\tthe\t\nPurity\tof\tAllah;\tand\tHe\tonly\tis\tthe\tMost\t\nHonourable,\tthe\tWise.\t\t",
+    "romanUrduTranslationText": "Allah\tki\tpāki\tbolta\thai\tjo\tkuchh\tāasmānoñ\t\nmeiñ\thai\taur\tjo\tkuchh\tzameen\tmeiñ\thai\t\naur\twohi\tÍzzat-o-Hikmat\twāla\thai\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "2",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لِمَ تَقُولُونَ مَا لَا تَفْعَلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "O\tPeople\twho\tBelieve!\tWhy\tdo\tyou\t\npreach\twhat\tyou\tdo\tnot\tpractice?\t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tKyuñ\tkehte\tho\twoh\tjo\t\nnahi\tkarte\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "3",
+    "arabicText": "كَبُرَ مَقْتًا عِندَ ٱللَّهِ أَن تَقُولُوا۟ مَا لَا تَفْعَلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "How\tdespicable\tit\tis\tin\tthe\tsight\tof\tAllah\tthat\tyou\tmay\tpreach\twhat\tyou\tdo\tnot\tpractice.\t\t",
+    "romanUrduTranslationText": "Kitni\tsakht\tna\tpasand\thai\tAllah\tko\twoh\tbāt\tke\twoh\tkaho\tjo\tna\tkaro\t\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "4",
+    "arabicText": "إِنَّ ٱللَّهَ يُحِبُّ ٱلَّذِينَ يُقَـٰتِلُونَ فِى سَبِيلِهِۦ صَفًّۭا كَأَنَّهُم بُنْيَـٰنٌۭ مَّرْصُوصٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "\tIndeed\tAllah\tlikes\tthose\twho\tfight\tin\tHis\tcause,\tpositioned\tin\trows,\tas\tif\tthey\twere\tan\tedifice\t\nfortified.\t\t\t",
+    "romanUrduTranslationText": "Beshak\tAllah\tdost\trakhta\thai\tunheiñ\tjo\tuski\trāh\tmeiñ\tladte\thaiñ\tparā\t(saf)\tbāñdh\tkar\tgoya\twoh\t\nimārat\thaiñ\trānga\t(shisha)\tpilāyi\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "5",
+    "arabicText": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِۦ يَـٰقَوْمِ لِمَ تُؤْذُونَنِى وَقَد تَّعْلَمُونَ أَنِّى رَسُولُ ٱللَّهِ إِلَيْكُمْ ۖ فَلَمَّا زَاغُوٓا۟ أَزَاغَ ٱللَّهُ قُلُوبَهُمْ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tremember\twhen\tMoosa\tsaid\tto\this\tpeople,\t“O\tmy\tpeople!\tWhy\tdo\tyou\ttrouble\tme,\t\nwhereas\tyou\tknow\tthat\tI\tam\tAllah’s\tNoble\tMessenger\ttowards\tyou?”\tSo\twhen\tthey\tdeviated,\t\nAllah\tdeviated\ttheir\thearts;\tand\tAllah\tdoes\tnot\tguide\tthe\tsinning\tpeople.\t",
+    "romanUrduTranslationText": "Aur\tyād\tkaro\tjab\tMūsā\tne\tapni\tqaum\tse\tkahā\taey\tmeri\tqaum\tmujhe\tkyuñ\tsatāte\tho\thalāñke\ttum\t\njānte\tho\tke\tmaiñ\ttumhāri\ttaraf\tAllah\tka\tRasool\thooñ\tphir\tjab\twoh\ttedhe\thuwe\tAllah\tne\tunke\tdil\t\ntedhe\tkar\tdiye\taur\tfāsiq\tlogoñ\tko\tAllah\trāh\tnahi\tdeta.\t\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "6",
+    "arabicText": "وَإِذْ قَالَ عِيسَى ٱبْنُ مَرْيَمَ يَـٰبَنِىٓ إِسْرَٰٓءِيلَ إِنِّى رَسُولُ ٱللَّهِ إِلَيْكُم مُّصَدِّقًۭا لِّمَا بَيْنَ يَدَىَّ مِنَ ٱلتَّوْرَىٰةِ وَمُبَشِّرًۢا بِرَسُولٍۢ يَأْتِى مِنۢ بَعْدِى ٱسْمُهُۥٓ أَحْمَدُ ۖ فَلَمَّا جَآءَهُم بِٱلْبَيِّنَـٰتِ قَالُوا۟ هَـٰذَا سِحْرٌۭ مُّبِينٌۭ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tremember\twhen\tEisa\tthe\tson\tof\t\nMaryam\tsaid,\t“O\tDescendants\tof\tIsrael!\t\nIndeed\tI\tam\tAllah’s\tNoble\tMessenger\t\ntowards\tyou,\tconfirming\tthe\tBook\tTorah\t\nwhich\twas\tbefore\tme,\tand\theralding\tglad\t\ntidings\tof\tthe\tNoble\tMessenger\twho\twill\t\ncome\tafter\tme\t–\this\tname\tis\tAhmed\t(the\t\nPraised\tOne)”;\tso\twhen\tAhmed\tcame\tto\t\nthem\twith\tclear\tproofs,\tthey\tsaid,\t“This\tis\t\nan\tobvious\tmagic.”\t",
+    "romanUrduTranslationText": "Aur\tyād\tkaro\tjab\t'Isa\tbin\tMaryam\tne\tkahā\t\naey\tbani\tIsra’il\tmaiñ\ttumhāri\ttaraf\tAllah\t\nka\tRasool\thooñ\tapne\tse\tpehli\tKitāb\t\nTaurait\tki\ttasdeeq\tkarta\thuwa\taur\tun\t\nRasool\tki\tbasharat\tsunāta\thuwa\tjo\tmere\t\nb’ad\ttashreef\tlāyeñge\tunka\tnām\tAhmad\t\nhai\tphir\tjab\tAhmad\tunke\tpās\traushan\t\nnishāniyāñ\tlekar\ttashreef\tlāye\tbole\tyeh\t\nkhula\tjādu\thai\t\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "7",
+    "arabicText": "وَمَنْ أَظْلَمُ مِمَّنِ ٱفْتَرَىٰ عَلَى ٱللَّهِ ٱلْكَذِبَ وَهُوَ يُدْعَىٰٓ إِلَى ٱلْإِسْلَـٰمِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\twho\tis\tmore\tunjust\tthan\tone\twho\t\nfabricates\ta\tlie\tagainst\tAllah\twhereas\the\tis\t\nbeing\tcalled\ttowards\tIslam?\tAnd\tAllah\t\ndoes\tnot\tguide\tthe\tunjust\tpeople.\t\t",
+    "romanUrduTranslationText": "Aur\tus\tse\tbadh\tkar\tzālim\tkaun\tjo\tAllah\tpar\t\njhoot\tbāñdhe\thalāñke\tusey\tislam\tki\ttaraf\t\nbulāya\tjāta\tho\taur\tzālim\tlogoñ\tko\tAllah\t\nrāh\tnahi\tdeta.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "8",
+    "arabicText": "يُرِيدُونَ لِيُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَٱللَّهُ مُتِمُّ نُورِهِۦ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "They\twish\tto\tput\tout\tAllah’s\tlight\twith\ttheir\t\nmouths,\twhereas\tAllah\twill\tperfect\tHis\tlight\t\neven\tif\tthe\tdisbelievers\tget\tannoyed.\t\t",
+    "romanUrduTranslationText": "Chāhte\thaiñ\tke\tAllah\tka\tNoor\tapne\t\nmuñhoñ\tse\tbujha\tdeiñ\taur\tAllah\tko\tapna\t\nNoor\tpoora\tkarna\tpade\tbura\tmāneiñ\tkāfir.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "9",
+    "arabicText": "هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "It\tis\tHe\tWho\thas\tsent\tHis\tNoble\t\nMessenger\twith\tguidance\tand\tthe\treligion\t\nof\ttruth,\tin\torder\tthat\tHe\tmay\tmake\tit\t\nprevail\tover\tall\tother\treligions,\teven\tif\tthe\t\npolytheists\tget\tannoyed.\t\t",
+    "romanUrduTranslationText": "Wohi\thai\tjisne\tapne\tRasool\tko\thidāyat\taur\t\nsachche\tdeen\tke\tsāth\tbheja\tke\tusey\tsab\t\ndeenoñ\tpar\tghalib\tkare\tpade\tbura\tmāneiñ\t\nmushrik.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "10",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ هَلْ أَدُلُّكُمْ عَلَىٰ تِجَـٰرَةٍۢ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "O\tPeople\twho\tBelieve!\tShall\tI\tshow\tyou\ta\t\ntrade\tthat\tcan\tsave\tyou\tfrom\tthe\tpainful\t\npunishment?\t\t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tKya\tmain\tbatā\tdooñ\twoh\t\nsaudāgari\tjo\ttumheiñ\tdard-nāk\t‘ažãb\tse\t\nbacha\tle.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "11",
+    "arabicText": "تُؤْمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَـٰهِدُونَ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Have\tfaith\tin\tAllah\tand\tHis\tNoble\t\nMessenger,\tand\tfight\tin\tAllah’s\tcause\twith\t\nyour\twealth\tand\tyour\tlives;\tthis\tis\tbetter\t\nfor\tyou,\tif\tyou\tunderstand.\t\t",
+    "romanUrduTranslationText": " Imān\trakho\tAllah\taur\tuske\tRasool\tpar\taur\t\nAllah\tki\trāh\tmeiñ\tapne\tmāl-wa-jān\tse\t\nJihād\tkaro\tyeh\ttumhāre\tliye\tbehtar\thai\t\nagar\ttum\tjāno.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "12",
+    "arabicText": "يَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَيُدْخِلْكُمْ جَنَّـٰتٍۢ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ وَمَسَـٰكِنَ طَيِّبَةًۭ فِى جَنَّـٰتِ عَدْنٍۢ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ",
+    "urduTranslationText": "",
+    "englishTranslationText": "He\twill\tforgive\tyou\tyour\tsins\tand\tadmit\tyou\t\ninto\tGardens\tbeneath\twhich\trivers\tflow,\tand\t\nsuperb\tdwellings\tin\teverlasting\tGardens\tof\t\nEden;\tthis\tis\tthe\tgreatest\tsuccess.\t\t",
+    "romanUrduTranslationText": "Woh\ttumhāre\tgunah\tbakhsh\tdega\taur\t\ntumheiñ\tbāghoñ\tmeiñ\tle\tjāyega\tjinke\t\nneeche\tnehreiñ\trawāñ\taur\tpakeeza\t\nmehelloñ\tmeiñ\tjo\tbasne\tke\tbāghoñ\tmeiñ\t\nhaiñ\tyehi\tbadi\tkāmyābi\thai.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "13",
+    "arabicText": "وَأُخْرَىٰ تُحِبُّونَهَا ۖ نَصْرٌۭ مِّنَ ٱللَّهِ وَفَتْحٌۭ قَرِيبٌۭ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tHe\twill\tgive\tyou\tanother\tfavour,\twhich\tis\tdear\tto\tyou\t–\tthe\thelp\tfrom\tAllah\tand\tan\timminent\t\nvictory;\tand\tO\tdear\tProphet\t(Muhammad\t–\tpeace\tand\tblessings\tbe\tupon\thim),\tgive\tglad\ttidings\tto\tthe\t\nMuslims.\t\t",
+    "romanUrduTranslationText": "Aur\tek\tne’mat\ttumheiñ\taur\tdega\tjo\t\ntumheiñ\tpiyāri\thai\tAllah\tki\tmadad\taur\tjald\tāane\twāli\tfatah\taur\taey\tMehboob\tMusalmanoñ\tko\t\nkhushi\tsuna\tdo.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "61"
+    },
+    "ayatNumber": "14",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوٓا۟ أَنصَارَ ٱللَّهِ كَمَا قَالَ عِيسَى ٱبْنُ مَرْيَمَ لِلْحَوَارِيِّـۧنَ مَنْ أَنصَارِىٓ إِلَى ٱللَّهِ ۖ قَالَ ٱلْحَوَارِيُّونَ نَحْنُ أَنصَارُ ٱللَّهِ ۖ فَـَٔامَنَت طَّآئِفَةٌۭ مِّنۢ بَنِىٓ إِسْرَٰٓءِيلَ وَكَفَرَت طَّآئِفَةٌۭ ۖ فَأَيَّدْنَا ٱلَّذِينَ ءَامَنُوا۟ عَلَىٰ عَدُوِّهِمْ فَأَصْبَحُوا۟ ظَـٰهِرِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "O\tPeople\twho\tBelieve!\tBecome\tthe\taides\tof\tAllah’s\treligion,\tthe\tway\tEisa\tthe\tson\tof\tMaryam\thad\tsaid\t\nto\tthe\tdisciples,\t“Who\twill\thelp\tme,\tinclining\ttowards\tAllah?”\tThe\tdisciples\tsaid,\t“We\tare\tthe\taides\tof\t\nAllah’s\treligion”\t–\tso\ta\tgroup\tamong\tthe\tDescendants\tof\tIsrael\taccepted\tfaith\tand\tanother\tgroup\t\ndisbelieved;\tWe\ttherefore\taided\tthe\tbelievers\tagainst\ttheir\tenemies,\tso\tthey\twere\tvictorious.\t \t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tDeen-e-Khuda\tke\tmadad-gār\tho\tjaise\tIsā\tbin\tMaryam\tne\thawāriyoñ\tse\tkahā\ttha\t\nkaun\thaiñ\tjo\tAllah\tki\ttaraf\thokar\tmeri\tmadad\tkareiñ\thawāri\tbole\thum\tDeen-e-Khuda\tke\tmadad\ngār\thaiñ\tto\tbani\tIsra’il\tse\tek\tgiroh\tImān\tlāya\taur\tek\tgiroh\tne\tkufr\tkiya\tto\thum\tne\tImān\twāloñ\tko\t\nunke\tdushmanoñ\tpar\tmadad\tdi\tto\tghalib\tho\tgaye.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "1",
+    "arabicText": "يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "All\twhatever\tis\tin\tthe\theavens\tand\tall\t\nwhatever\tis\tin\tthe\tearth\tproclaims\tthe\t\nPurity\tof\tAllah,\tthe\tKing,\tthe\tMost\tPure,\tthe\t\nMost\tHonourable,\tthe\tWise.\t\t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tDeen-e-Khuda\tke\tmadad-gār\tho\tjaise\tIsā\tbin\tMaryam\tne\thawāriyoñ\tse\tkahā\ttha\t\nkaun\thaiñ\tjo\tAllah\tki\ttaraf\thokar\tmeri\tmadad\tkareiñ\thawāri\tbole\thum\tDeen-e-Khuda\tke\tmadad\ngār\thaiñ\tto\tbani\tIsra’il\tse\tek\tgiroh\tImān\tlāya\taur\tek\tgiroh\tne\tkufr\tkiya\tto\thum\tne\tImān\twāloñ\tko\t\nunke\tdushmanoñ\tpar\tmadad\tdi\tto\tghalib\tho\tgaye.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "2",
+    "arabicText": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًۭا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍۢ مُّبِينٍۢ",
+    "urduTranslationText": "",
+    "englishTranslationText": "It\tis\tHe\tWho\thas\tsent\tamong\tthe\t\nunlettered\tpeople\ta\tNoble\tMessenger\t\nfrom\tthemselves,\twho\trecites\tHis\tverses\t\nto\tthem\tand\tpurifies\tthem,\tand\tbestows\t\nthem\tthe\tknowledge\tof\tthe\tBook\tand\t\nwisdom;\tand\tindeed\tbefore\tthis,\tthey\t\nwere\tin\topen\terror.\t\t",
+    "romanUrduTranslationText": "Wohi\thai\tjisne\tan-padhoñ\tmeiñ\tunhiñ\t\nmeiñ\tse\tek\tRasool\tbheja\tke\tun\tpar\tuski\t\nāayateiñ\tpadhte\thaiñ\taur\tunheiñ\tpāk\tkarte\t\nhaiñ\taur\tunheiñ\tkitāb\taur\thikmat\tka\t\n‘ilm‘ata\tfarmāte\thaiñ\taur\tbeshak\twoh\tis\tse\t\npehle\tzaroor\tkhuli\tgumrahi\tmeiñ\tthey"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "3",
+    "arabicText": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\the\t(the\tHoly\tProphet)\tbestows\t\nknowledge\tto\tothers\talong\twith\tthem,\t\nwho\thave\tnot\tyet\tjoined\tthem;\tand\tHe\t\nonly\tis\tthe\tMost\tHonourable,\tthe\tWise.\t\t",
+    "romanUrduTranslationText": "Aur\tun\tmeiñ\tse\tauroñ\tko\tpāk\tkarte\taur\t\nÍlm‘ata\tfarmāte\thaiñ\tjo\tun\tagloñ\tse\tna\tmile\t\naur\tWohi\t‘Izzat-o-Hikmat\twāla\thai\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "4",
+    "arabicText": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+    "urduTranslationText": "",
+    "englishTranslationText": "This\tis\tAllah’s\tmunificence,\twhich\tHe\tmay\t\ngive\tto\twhomever\tHe\twills;\tand\tAllah\tis\t\nExtremely\tMunificent.\t\t\t\t",
+    "romanUrduTranslationText": "Yeh\tAllah\tka\tfazl\thai\tjise\tchāhe\tde\taur\tAllah\t\nbade\tfazl\twāla\thai.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "5",
+    "arabicText": "مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا ۚ بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِ ٱللَّهِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "The\texample\tof\tthose\twho\twere\tentrusted\t\nwith\tthe\tTaurat,\tand\tdid\tnot\tcarry\tout\tits\t\ncommands,\tis\tlike\tthe\tdonkey\tcarrying\t\nbooks;\twhat\ta\twretched\texample\tis\tof\tthe\t\npeople\twho\tdenied\tthe\tsigns\tof\tAllah;\tand\t\nAllah\tdoes\tnot\tguide\tthe\tunjust.\t\t\t",
+    "romanUrduTranslationText": "Unki\tmisāl\tjin\tpar\tTaurait\trakhi\tgayi\tthi\t\nphir\tunhoñ\tne\tuski\thukm\tbardāri\tna\tki\t\ngadhe\tki\tmisāl\thai\tjo\tpeeth\tpar\tkitābeiñ\t\nuthāye\tkya\thi\tburi\tmisāl\thai\tun\tlogoñ\tki\t\njinhoñ\tne\tAllah\tki\tĀayateiñ\tjhutlayiñ\taur\t\nAllah\tzālimoñ\tko\trāh\tnahi\tdeta"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "6",
+    "arabicText": "قُلْ يَـٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓا۟ إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَـٰدِقِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Say\t“O\tJews!\tIf\tyou\tassume\tthat\tyou\tare\tAllah’s\tfriends,\tothers\tare\tnot,\tthen\twish\tfor\tdeath\tif\tyou\t\nare\ttruthful!”\t\t\t",
+    "romanUrduTranslationText": "Tum\tfarmāo\taey\tYahūdiyo\tAgar\ttumheiñ\t\nyeh\tgumān\thai\tke\ttum\tAllah\tke\tdost\tho\taur\t\nlog\tnahi\tto\tmarne\tki\tāarzu\tkaro\tagar\ttum\tsachche\tho\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "7",
+    "arabicText": "وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\tthey\twill\tnever\twish\tfor\tit\tbecause\tof\tthe\tmisdeeds\ttheir\thands\thave\tsent\tahead;\tand\tAllah\t\nwell\tknows\tthe\tunjust.\t\t",
+    "romanUrduTranslationText": "Aur\twoh\tkabhi\tiski\tāarzu\tna\tkareñge\tun\tkotakoñ\t(a’amāl)\tke\tsabab\tjo\tunke\thāth\tāage\tbhej\tchuke\t\nhaiñ\taur\tAllah\tzālimoñ\tko\tjānta\thai"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "8",
+    "arabicText": "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "Proclaim\t(O\tdear\tProphet\tMuhammad\t–\tpeace\tand\tblessings\tbe\tupon\thim),\t“Indeed\tdeath\twhich\t\nyou\trun\taway\tfrom\twill\tsurely\tconfront\tyou,\tthen\tyou\twill\tbe\treturned\tto\tHim\tWho\tknows\tall\t\nthe\thidden\tand\tthe\tvisible\t-\tHe\twill\tthen\tinform\tyou\tof\twhat\tyou\tdid.”\t\t",
+    "romanUrduTranslationText": "Tum\tfarmāo\twoh\tmaut\tjis\tse\ttum\tbhagte\tho\twoh\tto\tzaroor\ttumheiñ\tmilni\thai\tphir\tuski\ttaraf\t\nphere\tjāoge\tjo\tchhupa\taur\tzāhir\tsab\tkuch\tjānta\thai\tphir\twho\ttumheiñ\tbata\tdega\tjo\ttum\tne\tkiya\t\ntha\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "9",
+    "arabicText": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌۭ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": " O\tPeople\twho\tBelieve!\tWhen\tthe\tcall\tfor\t\nprayer\tis\tgiven\ton\t(Friday)\tthe\tday\tof\t\ncongregation,\trush\ttowards\tthe\t\nremembrance\tof\tAllah\tand\tstop\tbuying\t\nand\tselling;\tthis\tis\tbetter\tfor\tyou\tif\tyou\t\nunderstand.\t\t",
+    "romanUrduTranslationText": "Aey\tImān\twālo\tJab\tNamāz\tki\tazān\tho\t\nJumu’ah\tke\tdin\tto\tAllah\tke\tzikr\tki\ttaraf\t\ndaudo\taur\tkhareed-o-farokht\tchord\tdo\t\nyeh\ttumhāre\tliye\tbehtar\thai\tagar\ttum\t\njāno.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "10",
+    "arabicText": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًۭا لَّعَلَّكُمْ تُفْلِحُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\twhen\tthe\tprayer\tends,\tspread\tout\tin\t\nthe\tland\tand\tseek\tAllah’s\tmunificence,\tand\t\nprofusely\tremember\tAllah,\tin\tthe\thope\tof\t\nattaining\tsuccess.\t\t\t",
+    "romanUrduTranslationText": "Phir\tjab\tNamāz\tho\tchuke\tto\tzameen\tmeiñ\t\nphail\tjāo\taur\tAllah\tka\tfazl\ttalāsh\tkaro\taur\t\nAllah\tko\tbahut\tyād\tkaro\tis\tummeed\tpar\tke\t\nfalāh\tpāo.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "62"
+    },
+    "ayatNumber": "11",
+    "arabicText": "وَإِذَا رَأَوْا۟ تِجَـٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًۭا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌۭ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَـٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "And\twhen\tthey\tsee\tsome\ttrade\tor\tsport,\t\nthey\tmove\ttowards\tit\tand\tleave\tyou\t\nstanding\tdelivering\tthe\tsermon;\tproclaim,\t\n“That\twhich\tis\twith\tAllah,\tis\tbetter\tthan\t\nsport\tand\ttrade;\tand\tthe\tsustenance\tof\t\nAllah\tis\tthe\tbest.”\t\t\t",
+    "romanUrduTranslationText": "Aur\tjab\tunhoñ\tne\tkoi\ttijārat\tya\tkhel\tdekha\t\nuski\ttaraf\tchal\tdiye\taur\ttumheiñ\tkhutbe\t\nmeiñ\tkhada\tchord\tgaye\ttum\tfarmāo\twoh\t\njo\tAllah\tke\tpās\thai\tkhel\tse\taur\ttijārat\tse\t\nbehtar\thai\taur\tAllah\tka\trizq\tsab\tse\tachcha.\t"
+  },
+  {
+    "juz": {
+      "id": "28"
+    },
+    "surah": {
+      "id": "63"
+    },
+    "ayatNumber": "1",
+    "arabicText": "إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+    "urduTranslationText": "",
+    "englishTranslationText": "When\tthe\thypocrites\tcome\tin\tyour\t\npresence\t(O\tdear\tProphet\tMuhammad\t-\t\npeace\tand\tblessings\tbe\tupon\thim)\tthey\tsay,\t\n“We\ttestify\tthat\tyou\tsurely\tare\tAllah’s\t\nNoble\tMessenger”;\tand\tAllah\tknows\tthat\t\nyou\tindeed\tare\tHis\tNoble\tMessenger,\tand\t\nAllah\ttestifies\tthat\tthe\thypocrites\tare\t\nindeed\tliars.\t\t\t\t\t",
+    "romanUrduTranslationText": " Jab\tmunāfiq\ttumhāre\thuzoor\thāzir\thote\t\nhaiñ\tkehte\thaiñ\tke\thum\tgawāhi\tdete\thaiñ\t\nke\tHuzoor\tbeshak\tyaqeenan\tAllah\tke\t\nRasool\thaiñ\taur\tAllah\tjānta\thai\tke\ttum\t\nuske\tRasool\tho\taur\tAllah\tgawāhi\tdeta\thai\t\nke\tmunāfiq\tzaroor\tjhoote\thaiñ.\t"
+  }
+]
