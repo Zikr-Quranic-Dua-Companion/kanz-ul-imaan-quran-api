@@ -37,7 +37,7 @@ const preloadQuranData = () => {
 preloadQuranData();
 
 
-app.get('/health', (req, res) => {
+app.get('/', (req, res) => {
   res.status(200).send('Application is up and running');
 });
 
