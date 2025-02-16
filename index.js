@@ -564,4 +564,8 @@ app.get("/juzz-with-both-translations/:id", (req, res) => {
 // Start the server
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`Server is running on port ${PORT}`);
+
+  // LET CLOUDFLARE KNOW THAT THE SERVER IS UP
+  fetch('https://hc-ping.com/6a6e4e0b-3c1f-4d7d-8d3b-8e1c4b7b9c9b/start');
+
 });
