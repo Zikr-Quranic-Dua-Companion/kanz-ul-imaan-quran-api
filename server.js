@@ -1,6 +1,10 @@
 // server.js
 
-import startServer from './index.js';
-import startWorker from './worker.js';
+import startServer from "./index.js";
 
-startWorker();
+export default {
+  async fetch(request, env) {
+    startServer();
+    // return new Response("Hello world");
+  },
+};

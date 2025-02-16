@@ -11,7 +11,7 @@ const __dirname = dirname(__filename);
 // Path to the folder containing Quran JSON files
 const quranFolder = path.join(__dirname, "/Quran");
 
-export default function startWorker() {
+export default function start() {
   const app = express();
   const PORT = 2580;
 
