@@ -6,8 +6,8 @@ import http from "http";  // Import the built-in http module
 const requestListener = (req, res) => {
   const url = new URL(req.url, `http://${req.headers.host}`);
 
+  startServer();
   if (url.pathname === "/") {
-    startServer();
     res.writeHead(200, { "Content-Type": "text/plain" });
     res.end("Hello world");
   } else if (url.pathname === "/another-endpoint") {
